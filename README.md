@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/carthageo/carthageo.github.io/blob/main/www/LOGO_CARTHAGEO.png?raw=true" />
+</p>
+
+
 # Master Carthagéo
 
 # Présentation du Master Carthagéo
