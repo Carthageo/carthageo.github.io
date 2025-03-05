@@ -1,0 +1,18 @@
+---
+title: "A propos"
+---
+
+## Equipe pédagogique
+
+- Joël Boulier, Université Paris 1 Panthéon-Sorbonne (intervenant M1, co-responsable M2 Paris 1)
+- Hadrien Commenges, Université Paris 1 Panthéon-Sorbonne (intervenant M2)
+- Robin Cura, Université Paris 1 Panthéon-Sorbonne (responsable M1 Paris 1, co-responsable M2 Paris 1)
+- Sébastien Mustière, ENSG-Géomatique (co-responsable M2 ENSG)
+- Nicolas Payet, ENSG-Géomatique (co-responsable M2 ENSG)
+- Antonine Ribardière, Université Paris 1 Panthéon-Sorbonne (intervenante M1, co-responsable M2 Paris 1)
+- Christine Zanin, Université Paris Cité (responsable M1 UPC, responsable M2 UPC)
+
+
+## Informations et contacts
+
+Pour toute demande d'information sur le master, contacter Robin Cura (prenom.nom AT univ-paris1.fr)

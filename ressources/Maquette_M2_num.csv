@@ -1,0 +1,31 @@
+"Semestre";"UE";"Cours";"Heures";"ECTS"
+1;"UE 1 : Stages de mise à niveau";;;3
+1;"UE 1 : Stages de mise à niveau";"Logiciels de cartographie";12;
+1;"UE 1 : Stages de mise à niveau";"Logiciels de statistiques et d'analyse spatiale";12;
+1;"UE 1 : Stages de mise à niveau";"Analyse des données";12;
+1;"UE 2 : Bases de données et interopérabilité";;;6
+1;"UE 2 : Bases de données et interopérabilité";"Bases de données spatiales";36;
+1;"UE 2 : Bases de données et interopérabilité";"Normalisation et interopérabilité";12;
+1;"UE 2 : Bases de données et interopérabilité";"Transformations automatisées (FME)";12;
+1;"UE 3 : SIG et développements informatiques";;;6
+1;"UE 3 : SIG et développements informatiques";"Initiation à la programmation (algorithmie)";52;
+1;"UE 3 : SIG et développements informatiques";"Développements sous SIG";90;
+1;"UE 4 : Analyse spatiale";;;6
+1;"UE 4 : Analyse spatiale";"Stage d'analyse de données avec R";30;
+1;"UE 4 : Analyse spatiale";"Analyse spatiale et statistiques";24;
+1;"UE 4 : Analyse spatiale";"Analyse spatiale et SIG";24;
+1;"UE 5 : Cartographie";;;6
+1;"UE 5 : Cartographie";"Séminaire Histoire et pratique de la cartographie";14;
+1;"UE 5 : Cartographie";"Sémiologie graphique statique et dynamique";60;
+1;"UE 6 : Géomatique - Recherche et applications";;;3
+1;"UE 6 : Géomatique - Recherche et applications";"Séminaire de recherche : Approches thématiques ";20;
+1;"UE 6 : Géomatique - Recherche et applications";"Rencontres métiers - BILINGUE";14;
+1;"UE 6 : Géomatique - Recherche et applications";"Répondre à un appel d'offre";9;
+2;"UE 1 : Projets cartographiques";;;12
+2;"UE 1 : Projets cartographiques";"Projet de cartographie éditoriale - BILINGUE";44;
+2;"UE 1 : Projets cartographiques";"Projet transversal d'analyse spatiale";27;
+2;"UE 2 : Géovisualisation";;;6
+2;"UE 2 : Géovisualisation";"Introduction aux langages du Web";24;
+2;"UE 2 : Géovisualisation";"Principes de géovisualisation";12;
+2;"UE 2 : Géovisualisation";"Diffusion cartographique sur Internet (webmapping)";90;
+2;"UE 3 : Stage de fin d'études";;;12

@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Master Carthagéo"
+  favicon: "img/favicon.png"
+  page-footer: 
+    left: |
+      [![](img/logo_Paris1_min.png){fig-alt="Université Paris 1 Panthéon-Sorbonne" height=75px}](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-geographie-KBUW66GE//master-parcours-carthageo-KBUW66XE.html)
+    center: |
+      [![](img/logo_ENSG.png){fig-alt="ENSG-Géomatique" height=75px}](https://ensg.eu/fr/formation-initiale/master-2-carthageo#a-propos)
+    right: |
+      [![](img/logo_UPC_min.png){fig-alt="Université Paris Cité" height=75px}](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-humaines-et-sociales-SHS/geographie-amenagement-environnement-et-developpement-K2VO0KVP/master-gaed-parcours-conception-et-construction-de-realisations-geomatiques-carthageo-M34CBYQO.html)
+  navbar:
+    logo: "img/LOGO_CARTHAGEO.png"
+    left:
+      - href: index.qmd
+        text: "Accueil"
+      - href: m1.qmd
+        text: "Le Master 1"
+      - href: m2.qmd
+        text: "Le Master 2"
+      - href: admission.qmd
+        text: "Admissions"
+      - href: apres.qmd
+        text: "Après le master"
+      - href: about.qmd
+        text: "A propos"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

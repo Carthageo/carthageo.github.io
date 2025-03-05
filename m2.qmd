@@ -1,0 +1,35 @@
+---
+title: "Le Master 2"
+---
+
+# Programme
+
+```{r}
+#| echo: false
+#| output: false
+#| warning: false
+
+library(tidyverse)
+library(glue)
+library(kableExtra)
+
+```
+
+```{r}
+#| echo: false
+#| file: ressources/maquette_to_table.R
+```
+
+```{r}
+#| echo: false
+#| message: false
+
+maquette_m2 <- read_csv2("ressources/Maquette_M2_num.csv", col_types = cols()) %>%
+  mutate(Heures = glue("{Heures}h")) %>%
+  mutate(Semestre = str_to_upper(Semestre))
+
+table_from_df(maquette_m2)
+```
+
+
+

@@ -1,0 +1,76 @@
+---
+title: "Le Master 1"
+---
+
+## Organisation
+
+## Enseignements
+
+::: {.panel-tabset}
+### Université Paris Cité
+
+
+```{r}
+#| echo: false
+#| output: false
+#| warning: false
+
+library(tidyverse)
+library(glue)
+library(kableExtra)
+```
+
+
+
+
+### Université Paris 1 Panthéon-Sorbonne
+
+
+```{r}
+#| echo: false
+#| output: false
+#| warning: false
+
+library(tidyverse)
+library(glue)
+library(kableExtra)
+
+maquette_m2 <- read_csv2("ressources/Maquette_M2_num.csv") %>%
+  mutate(Heures = glue("{Heures}h")) %>%
+  mutate(Semestre = str_to_upper(Semestre))
+
+ue_titles <- maquette_m2 %>% filter(is.na(Cours))
+ue_indexes <- maquette_m2 %>%
+  group_by(UE) %>%
+  mutate(UE = glue("{UE} ({max(ECTS, na.rm = TRUE)} ECTS)")) %>%
+  ungroup() %>%
+  filter(!is.na(Cours)) %>%
+  mutate(row_number = row_number()) %>%
+  group_by(Semestre, UE) %>%
+  summarise(first = min(row_number),
+            last = max(row_number),
+            range = (last - first) + 1) %>%
+  ungroup()
+
+semestre_infos <- ue_indexes %>% group_by(Semestre) %>%
+  summarise(length = max(last)) %>%
+  ungroup() %>%
+  mutate(title = glue("SEMESTRE {Semestre}")) %>%
+  mutate(row_number = row_number()) %>%
+  mutate(length = case_when(
+    row_number == max(row_number) ~ nrow(maquette_m2 %>% filter(!is.na(Cours))) - lag(n = 1, length),
+    .default = length
+  ))
+```
+
+```{r}
+#| echo: false
+kbl(maquette_m2 %>% filter(!is.na(Cours)) %>% select(-Semestre, -UE, -ECTS), col.names = NULL) %>%
+  kable_paper("striped", full_width = F) %>%
+  pack_rows(index = pull(semestre_infos, length, title), label_row_css = "text-align: center; height: 2em;") %>%
+  pack_rows(index = ue_indexes %>% pull(range, UE),  label_row_css = "text-align: left;")
+```
+
+
+
+:::

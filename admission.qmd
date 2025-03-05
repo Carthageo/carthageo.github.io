@@ -1,0 +1,61 @@
+---
+title: "Rejoindre le Master Carthagéo"
+---
+
+::: callout
+L'entrée en Master Carthagéo se fait de manière privilégiée au niveau Master 1, via la plateforme nationale MonMaster.
+:::
+
+Dans certaines conditions, il est parfois possible d'intégrer directement le Master 2, par exemple après avoir déjà réalisé un M2.
+
+## Admission en M1 : MonMaster et concours écrit
+
+L'admission en M1 est sujette à votre classement au concours écrit commun aux deux universités.
+La candidature se fait via la plateforme nationale MonMaster, au sein de laquelle nous vous encourageons à candidater à la fois au [Master Carthagéo de l'Université Paris 1](https://monmaster.gouv.fr/formation/0751717J/1604344XCAWK/detail) et à [celui de l'Université Paris Cité](https://monmaster.gouv.fr/formation/0755976N/1105262VJYFL/detail).
+
+### Le "concours"
+
+Le concours de classement pour l'admission au Master 1 Carthagéo se déroule sur une journée complète, lors de laquelle vous composez sur deux épreuves :
+
+- Une épreuve de statistiques et analyse de données.
+
+- Une épreuve de cartographie et sémiologie graphique.
+
+Ces épreuves sont composées à l'écrit, sur papier, et le seul matériel autorisé est : 
+
+- un stylo à bille (noir ou bleu)
+- des crayons de couleur
+- une calculatrice (uniquement pendant l'épreuve de statistiques)
+
+L'usage du téléphone est interdit, y compris si vous avez oublié votre calculatrice.
+
+En cas d'autorisations d'aménagement d'épreuves (tiers-temps, composition sur ordinateur, ...), vous devez prévenir l'équipe pédagogique avant les épreuves en fournissant un justificatif.
+
+
+Pour vous préparer au concours, vous pouvez vous appuyer sur une <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Bibliographie.pdf" download="Test_Carthageo_Bibliographie.pdf" target="_blank">bibliographie indicative</a> ainsi que sur les <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Annales.zip" download="Test_Carthageo_Annales.zip">annales du concours</a>.
+
+::: {#admission2025-M1 .callout-important}
+## Concours 2025
+Pour l'année 2025, le concours aura lieu **le samedi 26 avril 2025**, de 9h à 17h, et se tiendra à l'[Institut de Géographie](https://fr.wikipedia.org/wiki/Institut_de_g%C3%A9ographie_(Paris)) à Paris.
+:::
+
+Il n'y a aucune possibilité de rejoindre le Master 1 sans passer le "concours".
+Aucune dérogation n'est possible si vous n'êtes pas disponible le jour où il se tient, quels que soient vos justificatifs.
+
+
+## Admission directe en M2
+
+Sous réserve qu'il y ait des places disponibles (ce qui n'est pas le cas tous les ans), il est également possible de candidater directement en M2 pour les étudiant.es qui auraient déjà un diplôme de Master 2 (ou exceptionnellement de Master 1) et des compétences avérées dans les domaines de la géomatique et de la cartographie.
+
+Dans ces cas là, les candidatures se font via les plateformes dédiées de chaque université, et la sélection est effectuée sur dossier.
+
+- Pour rejoindre le M2 Carthagéo à l'Université Paris 1 Panthéon-Sorbonne : [eCandidat Paris 1](https://ecandidat.univ-paris1.fr/ecandidat/#!accueilView)
+- Pour rejoindre le M2 Carthagéo à l'Université Paris Cité : [eCandidat Paris Cité](https://ecandidat.app.u-paris.fr/sh1/#!accueilView)
+
+
+
+::: {#admission2025-M2 .callout-important}
+## Admission en M2 pour l'année 2025
+
+Cette année, en raison d'effectifs complets, aucune admission ne sera possible directement en M2. Nous encourageons les candidat.es éventuel.les à candidater au M1 ou à attendre l'année suivante.
+:::
