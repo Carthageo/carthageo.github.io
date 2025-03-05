@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Master Carthagéo"
+  google-analytics: "G-Y4HLV126SE"
   favicon: "img/favicon.png"
   page-footer: 
     left: |
