@@ -17,15 +17,15 @@ website:
     left:
       - href: index.qmd
         text: "Accueil"
-      - href: m1.qmd
+      - href: "" # m1.qmd
         text: "Le Master 1"
-      - href: m2.qmd
+      - href: "" # m2.qmd
         text: "Le Master 2"
       - href: admission.qmd
         text: "Admissions"
-      - href: apres.qmd
+      - href: "" # apres.qmd
         text: "Après le master"
-      - href: about.qmd
+      - href: "" # about.qmd
         text: "A propos"
 
 format:
