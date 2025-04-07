@@ -6,6 +6,11 @@ website:
   title: "Master Carthagéo"
   google-analytics: "G-Y4HLV126SE"
   favicon: "img/favicon.png"
+  twitter-card: true
+  site-url: https://carthageo.github.io
+  open-graph: 
+    locale: fr_FR
+    site-name: Master Carthagéo
   page-footer: 
     left: |
       [![](img/logo_Paris1_min.png){fig-alt="Université Paris 1 Panthéon-Sorbonne" height=75px}](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-geographie-KBUW66GE//master-parcours-carthageo-KBUW66XE.html)
