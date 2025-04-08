@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "apres.html#témoignages",
-    "href": "apres.html#témoignages",
-    "title": "Après le master",
-    "section": "Témoignages",
-    "text": "Témoignages"
-  },
-  {
-    "objectID": "apres.html#le-réseau-des-anciens-lacg",
-    "href": "apres.html#le-réseau-des-anciens-lacg",
-    "title": "Après le master",
-    "section": "Le réseau des anciens : l’ACG",
-    "text": "Le réseau des anciens : l’ACG"
-  },
-  {
     "objectID": "m2.html",
     "href": "m2.html",
     "title": "Le Master 2",
     "section": "",
-    "text": "Programme\n\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
+    "text": "Programme\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
   },
   {
     "objectID": "index.html",
@@ -28,11 +14,25 @@
     "text": "Le master Carthagéo est une formation à la gestion, l’analyse et le traitement de données géographiques ainsi qu’à la restitution cartographique (cartographie dynamique, webmapping). Sa singularité réside dans l’accent mis sur les représentations cartographiques d’une part et sur l’analyse spatiale d’autre part.\nL’objectif du master Carthagéo est de former des cadres en géomatique et en analyse de données géolocalisées : dans un contexte marqué par l’explosion de la production de données géolocalisées, il est plus que jamais nécessaire de maîtriser l’ensemble de ces de techniques et modèles permettant d’appliquer des structures formelles à ces systèmes.\nPar un ensemble de méthodes mathématiques, statistiques et informatiques, les étudiants acquièrent la capacité de modéliser, d’analyser et de cartographier les organisations spatiales et leurs dynamiques. Les étudiants sont solidement formés à la dimension numérique de la gestion, de l’analyse et de la représentation de l’information géographique, mais ils sont aussi préparés à appréhender la dimension sémantique et thématique de l’information géographique. La co-habilitation Université - ENSG permet d’assumer la double généalogie de la géomatique : les Sciences de l’Ingénieur d’une part, avec une forte composante informatique, et la Géographie d’autre part, avec un ancrage dans les Sciences Humaines et Sociales (SHS).\nL’enseignement couple des approches méthodologiques et techniques professionnelles de production cartographique : cours de SIG, de modélisation des bases de données, de programmation et de webmapping qui permettent ainsi la mise en œuvre de ces méthodes sur des questions appliquées relevant des domaines de l’environnement, de la ville durable, de la gestion territoriale…"
   },
   {
-    "objectID": "m1.html#enseignements",
-    "href": "m1.html#enseignements",
-    "title": "Le Master 1",
-    "section": "Enseignements",
-    "text": "Enseignements\n\nUniversité Paris CitéUniversité Paris 1 Panthéon-Sorbonne\n\n\n\n\n\n\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
+    "objectID": "admission.html",
+    "href": "admission.html",
+    "title": "Rejoindre le Master Carthagéo",
+    "section": "",
+    "text": "L’entrée en Master Carthagéo se fait de manière privilégiée au niveau Master 1, via la plateforme nationale MonMaster.\nDans certaines conditions, il est parfois possible d’intégrer directement le Master 2, par exemple après avoir déjà réalisé un Master ou un Master 2."
+  },
+  {
+    "objectID": "admission.html#admission-en-m1-monmaster-et-épreuves-écrites",
+    "href": "admission.html#admission-en-m1-monmaster-et-épreuves-écrites",
+    "title": "Rejoindre le Master Carthagéo",
+    "section": "Admission en M1 : MonMaster et épreuves écrites",
+    "text": "Admission en M1 : MonMaster et épreuves écrites\nL’admission en M1 est sujette à vos résultats aux épreuves écrites, communes aux deux universités (Paris 1 et Paris Cité). La candidature se fait via la plateforme nationale MonMaster, au sein de laquelle nous vous encourageons à candidater à la fois au Master Carthagéo de l’Université Paris 1 et à celui de l’Université Paris Cité.\n\nLes épreuves écrites\nLes épreuves écrites pour l’admission au Master 1 Carthagéo se déroulent sur une journée complète, lors de laquelle vous composez sur deux sujets :\n\nUn sujet de statistiques et analyse de données.\nUn sujet de cartographie et sémiologie graphique.\n\nCes épreuves sont composées à l’écrit, sur papier, et le seul matériel autorisé est :\n\nun stylo à bille (noir ou bleu) ;\ndes crayons feutres noirs et de couleur, crayons à papier et crayons de couleur, règles ;\nune calculatrice (uniquement pendant l’épreuve de statistiques).\n\nL’usage du téléphone est interdit, y compris si vous avez oublié votre calculatrice.\nEn cas d’autorisations d’aménagement d’épreuves (tiers-temps, composition sur ordinateur, …), vous devez prévenir l’équipe pédagogique avant les épreuves en fournissant un justificatif.\nPour vous préparer, vous pouvez vous appuyer sur une bibliographie indicative ainsi que sur les annales des années précédentes.\n\n\n\n\n\n\nÉpreuves 2025\n\n\n\nPour l’année 2025, les épreuves auront lieu le samedi 26 avril 2025, de 9h à 17h, et se tiendront à l’Institut de Géographie à Paris.\n\n\nIl n’y a aucune possibilité de rejoindre le Master 1 sans passer ces épreuves écrites. Aucune dérogation n’est possible si vous n’êtes pas disponible le jour où elles se tiennent, quels que soient vos justificatifs."
+  },
+  {
+    "objectID": "admission.html#admission-directe-en-m2",
+    "href": "admission.html#admission-directe-en-m2",
+    "title": "Rejoindre le Master Carthagéo",
+    "section": "Admission directe en M2",
+    "text": "Admission directe en M2\nSous réserve qu’il y ait des places disponibles (ce qui n’est pas le cas tous les ans), il est également possible de candidater directement en M2 pour les étudiant.es qui auraient déjà un diplôme de Master 2 (ou de Master 1) et des compétences avérées dans les domaines de la géomatique et de la cartographie.\nDans ces cas là, les candidatures se font via les plateformes dédiées de chaque université, et la sélection est effectuée sur dossier.\n\nPour rejoindre le M2 Carthagéo à l’Université Paris 1 Panthéon-Sorbonne : eCandidat Paris 1\nPour rejoindre le M2 Carthagéo à l’Université Paris Cité : eCandidat Paris Cité\n\n\n\n\n\n\n\nAdmission en M2 pour l’année 2025\n\n\n\nCette année, en raison d’effectifs complets, aucune admission ne sera possible directement en M2."
   },
   {
     "objectID": "about.html",
@@ -56,24 +56,24 @@
     "text": "Informations et contacts\nPour toute demande d’information sur le master, contacter Robin Cura (prenom.nom AT univ-paris1.fr)"
   },
   {
-    "objectID": "admission.html",
-    "href": "admission.html",
-    "title": "Rejoindre le Master Carthagéo",
-    "section": "",
-    "text": "L’entrée en Master Carthagéo se fait de manière privilégiée au niveau Master 1, via la plateforme nationale MonMaster.\nDans certaines conditions, il est parfois possible d’intégrer directement le Master 2, par exemple après avoir déjà réalisé un Master ou un Master 2."
+    "objectID": "apres.html#témoignages",
+    "href": "apres.html#témoignages",
+    "title": "Après le master",
+    "section": "Témoignages",
+    "text": "Témoignages"
   },
   {
-    "objectID": "admission.html#admission-en-m1-monmaster-et-épreuves-écrites",
-    "href": "admission.html#admission-en-m1-monmaster-et-épreuves-écrites",
-    "title": "Rejoindre le Master Carthagéo",
-    "section": "Admission en M1 : MonMaster et épreuves écrites",
-    "text": "Admission en M1 : MonMaster et épreuves écrites\nL’admission en M1 est sujette à vos résultats aux épreuves écrites, communes aux deux universités (Paris 1 et Paris Cité). La candidature se fait via la plateforme nationale MonMaster, au sein de laquelle nous vous encourageons à candidater à la fois au Master Carthagéo de l’Université Paris 1 et à celui de l’Université Paris Cité.\n\nLes épreuves écrites\nLes épreuves écrites pour l’admission au Master 1 Carthagéo se déroulent sur une journée complète, lors de laquelle vous composez sur deux sujets :\n\nUn sujet de statistiques et analyse de données.\nUn sujet de cartographie et sémiologie graphique.\n\nCes épreuves sont composées à l’écrit, sur papier, et le seul matériel autorisé est :\n\nun stylo à bille (noir ou bleu) ;\ndes crayons feutres noirs et de couleur, crayons à papier et crayons de couleur, règles ;\nune calculatrice (uniquement pendant l’épreuve de statistiques).\n\nL’usage du téléphone est interdit, y compris si vous avez oublié votre calculatrice.\nEn cas d’autorisations d’aménagement d’épreuves (tiers-temps, composition sur ordinateur, …), vous devez prévenir l’équipe pédagogique avant les épreuves en fournissant un justificatif.\nPour vous préparer, vous pouvez vous appuyer sur une bibliographie indicative ainsi que sur les annales des années précédentes.\n\n\n\n\n\n\nÉpreuves 2025\n\n\n\nPour l’année 2025, les épreuves auront lieu le samedi 26 avril 2025, de 9h à 17h, et se tiendront à l’Institut de Géographie à Paris.\n\n\nIl n’y a aucune possibilité de rejoindre le Master 1 sans passer ces épreuves écrites. Aucune dérogation n’est possible si vous n’êtes pas disponible le jour où elles se tiennent, quels que soient vos justificatifs."
+    "objectID": "apres.html#le-réseau-des-anciens-lacg",
+    "href": "apres.html#le-réseau-des-anciens-lacg",
+    "title": "Après le master",
+    "section": "Le réseau des anciens : l’ACG",
+    "text": "Le réseau des anciens : l’ACG"
   },
   {
-    "objectID": "admission.html#admission-directe-en-m2",
-    "href": "admission.html#admission-directe-en-m2",
-    "title": "Rejoindre le Master Carthagéo",
-    "section": "Admission directe en M2",
-    "text": "Admission directe en M2\nSous réserve qu’il y ait des places disponibles (ce qui n’est pas le cas tous les ans), il est également possible de candidater directement en M2 pour les étudiant.es qui auraient déjà un diplôme de Master 2 (ou de Master 1) et des compétences avérées dans les domaines de la géomatique et de la cartographie.\nDans ces cas là, les candidatures se font via les plateformes dédiées de chaque université, et la sélection est effectuée sur dossier.\n\nPour rejoindre le M2 Carthagéo à l’Université Paris 1 Panthéon-Sorbonne : eCandidat Paris 1\nPour rejoindre le M2 Carthagéo à l’Université Paris Cité : eCandidat Paris Cité\n\n\n\n\n\n\n\nAdmission en M2 pour l’année 2025\n\n\n\nCette année, en raison d’effectifs complets, aucune admission ne sera possible directement en M2."
+    "objectID": "m1.html#enseignements",
+    "href": "m1.html#enseignements",
+    "title": "Le Master 1",
+    "section": "Enseignements",
+    "text": "Enseignements\n\nUniversité Paris CitéUniversité Paris 1 Panthéon-Sorbonne\n\n\n\n\n\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
   }
 ]
