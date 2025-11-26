@@ -2,9 +2,9 @@
 title: "Rejoindre le Master Carthagéo"
 ---
 
-::: callout
-L'entrée en Master Carthagéo se fait de manière privilégiée au niveau Master 1, via la plateforme nationale MonMaster.
-:::
+
+**L'entrée en Master Carthagéo se fait de manière privilégiée au niveau Master 1, via la plateforme nationale MonMaster.**
+
 
 Dans certaines conditions, il est parfois possible d'intégrer directement le Master 2, par exemple après avoir déjà réalisé un Master ou un Master 2.
 
@@ -32,15 +32,16 @@ L'usage du téléphone est interdit, y compris si vous avez oublié votre calcul
 En cas d'autorisations d'aménagement d'épreuves (tiers-temps, composition sur ordinateur, ...), vous devez prévenir l'équipe pédagogique avant les épreuves en fournissant un justificatif.
 
 
-Pour vous préparer, vous pouvez vous appuyer sur une <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Bibliographie_Unifiee_2025.pdf" download="Test_Carthageo_Bibliographie_Unifiee_2025.pdf" target="_blank">bibliographie indicative</a> ainsi que sur les <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Annales.zip" download="Test_Carthageo_Annales.zip">annales des années précédentes</a>.
-
-::: {#admission2025-M1 .callout-important}
-## Épreuves 2025
-Pour l'année 2025, les épreuves auront lieu **le samedi 26 avril 2025**, de 9h à 17h, et se tiendront à l'[Institut de Géographie](https://fr.wikipedia.org/wiki/Institut_de_g%C3%A9ographie_(Paris)) à Paris.
-:::
-
 Il n'y a aucune possibilité de rejoindre le Master 1 sans passer ces épreuves écrites.
 Aucune dérogation n'est possible si vous n'êtes pas disponible le jour où elles se tiennent, quels que soient vos justificatifs.
+
+### Annales
+
+Pour vous préparer, vous pouvez vous appuyer sur une <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Bibliographie_Unifiee_2025.pdf" download="Test_Carthageo_Bibliographie_Unifiee_2025.pdf" target="_blank">bibliographie indicative</a> ainsi que sur les <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Annales.zip" download="Test_Carthageo_Annales.zip">annales des années précédentes</a>.
+
+### Épreuves 2025
+
+Pour l'année 2025, les épreuves auront lieu **le samedi 26 avril 2025**, de 9h à 17h, et se tiendront à l'[Institut de Géographie](https://fr.wikipedia.org/wiki/Institut_de_g%C3%A9ographie_(Paris)) à Paris.
 
 
 ## Admission directe en M2
