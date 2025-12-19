@@ -13,6 +13,6 @@ L'objectif du master Carthagéo est de former des cadres en géomatique et en an
 
 Par un ensemble de méthodes mathématiques, statistiques et informatiques, les étudiants acquièrent la capacité de modéliser, d'analyser et de cartographier les organisations spatiales et leurs dynamiques.
 Les étudiants sont solidement formés à la dimension numérique de la gestion, de l'analyse et de la représentation de l'information géographique, mais ils sont aussi préparés à appréhender la dimension sémantique et thématique de l'information géographique.
-La co-habilitation Université - ENSG permet d'assumer la double généalogie de la géomatique : les Sciences de l'Ingénieur d'une part, avec une forte composante informatique, et la Géographie d'autre part, avec un ancrage dans les Sciences Humaines et Sociales (SHS).
+La co-habilitation Université - Géodata Paris permet d'assumer la double généalogie de la géomatique : les Sciences de l'Ingénieur d'une part, avec une forte composante informatique, et la Géographie d'autre part, avec un ancrage dans les Sciences Humaines et Sociales (SHS).
 
 L'enseignement couple des approches méthodologiques et techniques professionnelles de production cartographique : cours de SIG, de modélisation des bases de données, de programmation et de webmapping qui permettent ainsi la mise en œuvre de ces méthodes sur des questions appliquées relevant des domaines de l'environnement, de la ville durable, de la gestion territoriale...
