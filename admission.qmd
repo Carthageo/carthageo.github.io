@@ -1,5 +1,7 @@
 ---
 title: "Rejoindre le Master Carthagéo"
+date: "2025/12/19"
+date-format: "[Page mise à jour le :] DD/MM/YYYY"
 ---
 
 
@@ -11,7 +13,7 @@ Dans certaines conditions, il est parfois possible d'intégrer directement le Ma
 ## Admission en M1 : MonMaster et épreuves écrites
 
 L'admission en M1 est sujette à vos résultats aux épreuves écrites, communes aux deux universités (Paris 1 et Paris Cité).
-La candidature se fait via la plateforme nationale MonMaster, au sein de laquelle nous vous encourageons à candidater à la fois au [Master Carthagéo de l'Université Paris 1](https://monmaster.gouv.fr/formation/0751717J/1604344XCAWK/detail) et à [celui de l'Université Paris Cité](https://monmaster.gouv.fr/formation/0755976N/1105262VJYFL/detail).
+La candidature se fait via la plateforme nationale MonMaster, au sein de laquelle nous vous encourageons à candidater à la fois au [Master Carthagéo de l'Université Paris 1](#) et à [celui de l'Université Paris Cité](#).
 
 ### Les épreuves écrites
 
@@ -37,11 +39,11 @@ Aucune dérogation n'est possible si vous n'êtes pas disponible le jour où ell
 
 ### Annales
 
-Pour vous préparer, vous pouvez vous appuyer sur une <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Bibliographie_Unifiee_2025.pdf" download="Test_Carthageo_Bibliographie_Unifiee_2025.pdf" target="_blank">bibliographie indicative</a> ainsi que sur les <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Annales.zip" download="Test_Carthageo_Annales.zip">annales des années précédentes</a>.
+Pour vous préparer, vous pouvez vous appuyer sur une <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Bibliographie_Unifiee_2025.pdf" download="Test_Carthageo_Bibliographie_Unifiee_2025.pdf" target="_blank">bibliographie indicative</a> ainsi que sur les <a class="badge text-bg-secondary" href="ressources/Test_Carthageo_Annales_2021-2025.zip" download="Test_Carthageo_Annales_2021-2025.zip">annales des années précédentes</a>.
 
-### Épreuves 2025
+### Épreuves 2026
 
-Pour l'année 2025, les épreuves auront lieu **le samedi 26 avril 2025**, de 9h à 17h, et se tiendront à l'[Institut de Géographie](https://fr.wikipedia.org/wiki/Institut_de_g%C3%A9ographie_(Paris)) à Paris.
+**Pour l'année 2026, les épreuves auront lieu `le samedi 25 avril 2026`, de 9h à 17h, et se tiendront à l'[Institut de Géographie](https://fr.wikipedia.org/wiki/Institut_de_g%C3%A9ographie_(Paris)) à Paris.**
 
 
 ## Admission directe en M2
@@ -56,7 +58,8 @@ Dans ces cas là, les candidatures se font via les plateformes dédiées de chaq
 
 
 ::: {#admission2025-M2 .callout-important}
-## Admission en M2 pour l'année 2025
+## Admission en M2 pour l'année 2026
 
-Cette année, en raison d'effectifs complets, aucune admission ne sera possible directement en M2.
+Il devrait vraisemblablement y avoir une place en admission directe à Paris 1, et une place en admission directe à UPC. 
+Ces informations seront mises à jour en février 2026.
 :::
