@@ -1,6 +1,6 @@
 ---
 title: "Rejoindre le Master Carthagéo"
-date: "2025/01/14"
+date: "2026/01/14"
 date-format: "[Page mise à jour le :] DD/MM/YYYY"
 ---
 
