@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "apres.html#témoignages",
-    "href": "apres.html#témoignages",
-    "title": "Après le master",
-    "section": "Témoignages",
-    "text": "Témoignages"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "A propos",
+    "section": "",
+    "text": "Joël Boulier, Université Paris 1 Panthéon-Sorbonne (intervenant M1, co-responsable M2 Paris 1)\nHadrien Commenges, Université Paris 1 Panthéon-Sorbonne (intervenant M2)\nRobin Cura, Université Paris 1 Panthéon-Sorbonne (responsable M1 Paris 1, co-responsable M2 Paris 1)\nSébastien Mustière, ENSG-Géomatique (co-responsable M2 ENSG)\nNicolas Payet, ENSG-Géomatique (co-responsable M2 ENSG)\nAntonine Ribardière, Université Paris 1 Panthéon-Sorbonne (intervenante M1, co-responsable M2 Paris 1)\nChristine Zanin, Université Paris Cité (responsable M1 UPC, responsable M2 UPC)"
   },
   {
-    "objectID": "apres.html#le-réseau-des-anciens-lacg",
-    "href": "apres.html#le-réseau-des-anciens-lacg",
-    "title": "Après le master",
-    "section": "Le réseau des anciens : l’ACG",
-    "text": "Le réseau des anciens : l’ACG"
+    "objectID": "about.html#equipe-pédagogique",
+    "href": "about.html#equipe-pédagogique",
+    "title": "A propos",
+    "section": "",
+    "text": "Joël Boulier, Université Paris 1 Panthéon-Sorbonne (intervenant M1, co-responsable M2 Paris 1)\nHadrien Commenges, Université Paris 1 Panthéon-Sorbonne (intervenant M2)\nRobin Cura, Université Paris 1 Panthéon-Sorbonne (responsable M1 Paris 1, co-responsable M2 Paris 1)\nSébastien Mustière, ENSG-Géomatique (co-responsable M2 ENSG)\nNicolas Payet, ENSG-Géomatique (co-responsable M2 ENSG)\nAntonine Ribardière, Université Paris 1 Panthéon-Sorbonne (intervenante M1, co-responsable M2 Paris 1)\nChristine Zanin, Université Paris Cité (responsable M1 UPC, responsable M2 UPC)"
+  },
+  {
+    "objectID": "about.html#informations-et-contacts",
+    "href": "about.html#informations-et-contacts",
+    "title": "A propos",
+    "section": "Informations et contacts",
+    "text": "Informations et contacts\nPour toute demande d’information sur le master, contacter Robin Cura (prenom.nom AT univ-paris1.fr)"
+  },
+  {
+    "objectID": "m1.html#enseignements",
+    "href": "m1.html#enseignements",
+    "title": "Le Master 1",
+    "section": "Enseignements",
+    "text": "Enseignements\n\nUniversité Paris CitéUniversité Paris 1 Panthéon-Sorbonne\n\n\n\n\n\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
   },
   {
     "objectID": "admission.html",
@@ -49,31 +63,17 @@
     "text": "Programme\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
   },
   {
-    "objectID": "m1.html#enseignements",
-    "href": "m1.html#enseignements",
-    "title": "Le Master 1",
-    "section": "Enseignements",
-    "text": "Enseignements\n\nUniversité Paris CitéUniversité Paris 1 Panthéon-Sorbonne\n\n\n\n\n\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
+    "objectID": "apres.html#témoignages",
+    "href": "apres.html#témoignages",
+    "title": "Après le master",
+    "section": "Témoignages",
+    "text": "Témoignages"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "A propos",
-    "section": "",
-    "text": "Joël Boulier, Université Paris 1 Panthéon-Sorbonne (intervenant M1, co-responsable M2 Paris 1)\nHadrien Commenges, Université Paris 1 Panthéon-Sorbonne (intervenant M2)\nRobin Cura, Université Paris 1 Panthéon-Sorbonne (responsable M1 Paris 1, co-responsable M2 Paris 1)\nSébastien Mustière, ENSG-Géomatique (co-responsable M2 ENSG)\nNicolas Payet, ENSG-Géomatique (co-responsable M2 ENSG)\nAntonine Ribardière, Université Paris 1 Panthéon-Sorbonne (intervenante M1, co-responsable M2 Paris 1)\nChristine Zanin, Université Paris Cité (responsable M1 UPC, responsable M2 UPC)"
-  },
-  {
-    "objectID": "about.html#equipe-pédagogique",
-    "href": "about.html#equipe-pédagogique",
-    "title": "A propos",
-    "section": "",
-    "text": "Joël Boulier, Université Paris 1 Panthéon-Sorbonne (intervenant M1, co-responsable M2 Paris 1)\nHadrien Commenges, Université Paris 1 Panthéon-Sorbonne (intervenant M2)\nRobin Cura, Université Paris 1 Panthéon-Sorbonne (responsable M1 Paris 1, co-responsable M2 Paris 1)\nSébastien Mustière, ENSG-Géomatique (co-responsable M2 ENSG)\nNicolas Payet, ENSG-Géomatique (co-responsable M2 ENSG)\nAntonine Ribardière, Université Paris 1 Panthéon-Sorbonne (intervenante M1, co-responsable M2 Paris 1)\nChristine Zanin, Université Paris Cité (responsable M1 UPC, responsable M2 UPC)"
-  },
-  {
-    "objectID": "about.html#informations-et-contacts",
-    "href": "about.html#informations-et-contacts",
-    "title": "A propos",
-    "section": "Informations et contacts",
-    "text": "Informations et contacts\nPour toute demande d’information sur le master, contacter Robin Cura (prenom.nom AT univ-paris1.fr)"
+    "objectID": "apres.html#le-réseau-des-anciens-lacg",
+    "href": "apres.html#le-réseau-des-anciens-lacg",
+    "title": "Après le master",
+    "section": "Le réseau des anciens : l’ACG",
+    "text": "Le réseau des anciens : l’ACG"
   }
 ]
