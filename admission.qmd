@@ -12,7 +12,7 @@ Dans certaines conditions, il est parfois possible d'intégrer directement le Ma
 ## Admission en M1 : MonMaster et épreuves écrites
 
 L'admission en M1 est sujette à vos résultats aux épreuves écrites, communes aux deux universités (Paris 1 et Paris Cité).
-La candidature se fait via la plateforme nationale MonMaster, au sein de laquelle nous vous encourageons à candidater à la fois au [Master Carthagéo de l'Université Paris 1](#) et à [celui de l'Université Paris Cité](#).
+La candidature se fait via la plateforme nationale MonMaster, au sein de laquelle nous vous encourageons à candidater à la fois au [Master Carthagéo de l'Université Paris 1](https://monmaster.gouv.fr/formation/0751717J/1604344XCAWK/detail) et à [celui de l'Université Paris Cité](https://monmaster.gouv.fr/formation/0755976N/1105262VJYFL/detail).
 
 ### Les épreuves écrites
 
@@ -62,3 +62,4 @@ Dans ces cas là, les candidatures se font via les plateformes dédiées de chaq
 Il devrait vraisemblablement y avoir une place en admission directe à Paris 1, et une place en admission directe à UPC. 
 Ces informations seront mises à jour en février 2026.
 :::
+
