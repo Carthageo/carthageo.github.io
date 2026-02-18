@@ -36,9 +36,12 @@ website:
         text: "Après le master"
       - href: "" # about.qmd
         text: "A propos"
-      - href: "realisations.qmd"
-        text: "Réalisations"
-
+      - text: "Réalisations"
+        menu:
+          - text: "Général"
+            href: realisations/realisations.qmd
+          - text: "Projet éditorial 2025/2026"
+            href: realisations/projet-editorial-2025-2026.qmd
 format:
   html:
     theme: flatly
