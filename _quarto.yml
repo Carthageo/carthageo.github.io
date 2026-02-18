@@ -36,12 +36,15 @@ website:
         text: "Après le master"
       - href: "" # about.qmd
         text: "A propos"
+      - href: "" # realisations.qmd
+        text: "Réalisations"
 
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
+
 
 
 
