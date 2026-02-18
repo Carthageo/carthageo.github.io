@@ -1,6 +1,6 @@
 ---
 title: "Rejoindre le Master Carthagéo"
-date: "2026/01/14"
+date: "2026/02/17"
 date-format: "[Page mise à jour le :] DD/MM/YYYY"
 ---
 
@@ -62,4 +62,5 @@ Dans ces cas là, les candidatures se font via les plateformes dédiées de chaq
 Il devrait vraisemblablement y avoir une place en admission directe à Paris 1, et une place en admission directe à UPC. 
 Ces informations seront mises à jour en février 2026.
 :::
+
 
