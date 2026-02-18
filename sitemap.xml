@@ -2,34 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://carthageo.github.io/about.html</loc>
-    <lastmod>2026-02-18T11:51:24.299Z</lastmod>
+    <lastmod>2026-02-18T11:45:32.829Z</lastmod>
   </url>
   <url>
     <loc>https://carthageo.github.io/m1.html</loc>
-    <lastmod>2026-02-18T11:51:24.301Z</lastmod>
-  </url>
-  <url>
-    <loc>https://carthageo.github.io/realisations/realisations.html</loc>
-    <lastmod>2026-02-18T11:51:24.302Z</lastmod>
-  </url>
-  <url>
-    <loc>https://carthageo.github.io/admission.html</loc>
-    <lastmod>2026-02-18T11:51:24.299Z</lastmod>
-  </url>
-  <url>
-    <loc>https://carthageo.github.io/index.html</loc>
-    <lastmod>2026-02-18T11:51:24.301Z</lastmod>
+    <lastmod>2026-02-18T11:45:32.831Z</lastmod>
   </url>
   <url>
     <loc>https://carthageo.github.io/m2.html</loc>
-    <lastmod>2026-02-18T11:51:24.301Z</lastmod>
+    <lastmod>2026-02-18T11:45:32.831Z</lastmod>
   </url>
   <url>
-    <loc>https://carthageo.github.io/realisations/projet-editorial-2025-2026.html</loc>
-    <lastmod>2026-02-18T11:51:24.302Z</lastmod>
+    <loc>https://carthageo.github.io/index.html</loc>
+    <lastmod>2026-02-18T11:45:32.831Z</lastmod>
+  </url>
+  <url>
+    <loc>https://carthageo.github.io/admission.html</loc>
+    <lastmod>2026-02-18T11:45:32.829Z</lastmod>
+  </url>
+  <url>
+    <loc>https://carthageo.github.io/realisations.html</loc>
+    <lastmod>2026-02-18T11:45:32.831Z</lastmod>
   </url>
   <url>
     <loc>https://carthageo.github.io/apres.html</loc>
-    <lastmod>2026-02-18T11:51:24.299Z</lastmod>
+    <lastmod>2026-02-18T11:45:32.829Z</lastmod>
   </url>
 </urlset>
