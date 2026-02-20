@@ -4,7 +4,7 @@ date: "2026/02/18"
 date-format: "[Page mise à jour le :] DD/MM/YYYY"
 ---
 
-##Réalisations des étudiant·es du M2 Carthagéo
+## Réalisations des étudiant·es du M2 Carthagéo
 
-###Projet éditorial
+### Projet éditorial
 2025-2026 : réalisation du [numéro 8 du magazine Space sur les frontières](https://carthageo.github.io/projet-editorial-2025-2026.html)
