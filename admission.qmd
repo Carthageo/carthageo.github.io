@@ -1,6 +1,6 @@
 ---
 title: "Rejoindre le Master Carthagéo"
-date: "2026/02/17"
+date: "2026/04/12"
 date-format: "[Page mise à jour le :] DD/MM/YYYY"
 ---
 
@@ -42,7 +42,13 @@ Pour vous préparer, vous pouvez vous appuyer sur une <a class="badge text-bg-se
 
 ### Épreuves 2026
 
-**Pour l'année 2026, les épreuves auront lieu `le samedi 25 avril 2026`, de 9h à 17h, et se tiendront à l'[Institut de Géographie](https://fr.wikipedia.org/wiki/Institut_de_g%C3%A9ographie_(Paris)) à Paris.**
+::: callout-warning
+#### Changement de lieu
+
+Les épreuves écrites se tiendront finalement au Centre La Chapelle !
+:::
+
+**Pour l'année 2026, les épreuves auront lieu `le samedi 25 avril 2026`, de 9h à 17h, et se tiendront au [Centre La Chapelle](https://www.pantheonsorbonne.fr/universite/projets/centre-chapelle) [à Paris 18ème](https://www.openstreetmap.org/?mlat=48.899113&mlon=2.358378&zoom=17).**
 
 
 ## Admission directe en M2
