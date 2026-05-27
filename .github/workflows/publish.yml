@@ -38,3 +38,10 @@ jobs:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy To Branches Action
+        uses: planetoftheweb/copy-to-branches@v1
+        env:
+          key: main
+          branches: gh-pages
+          files: bird_migration.html
