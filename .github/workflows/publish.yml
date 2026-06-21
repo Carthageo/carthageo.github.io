@@ -22,11 +22,11 @@ jobs:
 
       - name: Install R Dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
-          with:
-            packages:
-              any::knitr
-              any::rmarkdown
-              any::downlit
+        with:
+          packages:
+            any::knitr
+            any::rmarkdown
+            any::downlit
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
