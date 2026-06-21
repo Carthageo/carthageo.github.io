@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "realisations/data/trading_posts_final.html",
-    "href": "realisations/data/trading_posts_final.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Master Carthagéo",
     "section": "",
-    "text": "&lt;!DOCTYPE qgis PUBLIC ‘http://mrcc.com/qgis.dtd’ ‘SYSTEM’&gt;     \n\n\n         0 0     false"
-  },
-  {
-    "objectID": "realisations/realisations.html",
-    "href": "realisations/realisations.html",
-    "title": "Réalisations",
-    "section": "",
-    "text": "2025-2026 : réalisation du numéro 8 du magazine Space sur les frontières"
-  },
-  {
-    "objectID": "realisations/realisations.html#réalisations-des-étudiantes-du-m2-carthagéo",
-    "href": "realisations/realisations.html#réalisations-des-étudiantes-du-m2-carthagéo",
-    "title": "Réalisations",
-    "section": "",
-    "text": "2025-2026 : réalisation du numéro 8 du magazine Space sur les frontières"
+    "text": "Le master Carthagéo est une formation à la gestion, l’analyse et le traitement de données géographiques ainsi qu’à la restitution cartographique (cartographie dynamique, webmapping). Sa singularité réside dans l’accent mis sur les représentations cartographiques d’une part et sur l’analyse spatiale d’autre part.\nL’objectif du master Carthagéo est de former des cadres en géomatique et en analyse de données géolocalisées : dans un contexte marqué par l’explosion de la production de données géolocalisées, il est plus que jamais nécessaire de maîtriser l’ensemble de ces de techniques et modèles permettant d’appliquer des structures formelles à ces systèmes.\nPar un ensemble de méthodes mathématiques, statistiques et informatiques, les étudiants acquièrent la capacité de modéliser, d’analyser et de cartographier les organisations spatiales et leurs dynamiques. Les étudiants sont solidement formés à la dimension numérique de la gestion, de l’analyse et de la représentation de l’information géographique, mais ils sont aussi préparés à appréhender la dimension sémantique et thématique de l’information géographique. La co-habilitation Université - Géodata Paris permet d’assumer la double généalogie de la géomatique : les Sciences de l’Ingénieur d’une part, avec une forte composante informatique, et la Géographie d’autre part, avec un ancrage dans les Sciences Humaines et Sociales (SHS).\nL’enseignement couple des approches méthodologiques et techniques professionnelles de production cartographique : cours de SIG, de modélisation des bases de données, de programmation et de webmapping qui permettent ainsi la mise en œuvre de ces méthodes sur des questions appliquées relevant des domaines de l’environnement, de la ville durable, de la gestion territoriale…"
   },
   {
     "objectID": "apres.html#témoignages",
@@ -56,18 +42,109 @@
     "text": "Informations et contacts\nPour toute demande d’information sur le master, contacter Robin Cura (prenom.nom AT univ-paris1.fr)"
   },
   {
-    "objectID": "m1.html#enseignements",
-    "href": "m1.html#enseignements",
-    "title": "Le Master 1",
-    "section": "Enseignements",
-    "text": "Enseignements\n\nUniversité Paris CitéUniversité Paris 1 Panthéon-Sorbonne\n\n\n\n\n\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
+    "objectID": "realisations/projet_edito_2025-2026/gentrification.html",
+    "href": "realisations/projet_edito_2025-2026/gentrification.html",
+    "title": "Gentrification Montreuil",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/world_borders.html",
+    "href": "realisations/projet_edito_2025-2026/world_borders.html",
+    "title": "World Borders",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/commuters_monaco.html",
+    "href": "realisations/projet_edito_2025-2026/commuters_monaco.html",
+    "title": "Commuters Monaco",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/trading_posts.html",
+    "href": "realisations/projet_edito_2025-2026/trading_posts.html",
+    "title": "Trading Posts",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet-editorial-2025-2026.html",
+    "href": "realisations/projet-editorial-2025-2026.html",
+    "title": "Space n°8 - Borders",
+    "section": "",
+    "text": "Projet éditorial 2025-2026 : Space n°8 - Borders"
+  },
+  {
+    "objectID": "realisations/projet-editorial-2025-2026.html#la-plaquette",
+    "href": "realisations/projet-editorial-2025-2026.html#la-plaquette",
+    "title": "Space n°8 - Borders",
+    "section": "La plaquette",
+    "text": "La plaquette\n  Download PDF File\n   \n    Unable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "realisations/projet-editorial-2025-2026.html#visualisations-interactives",
+    "href": "realisations/projet-editorial-2025-2026.html#visualisations-interactives",
+    "title": "Space n°8 - Borders",
+    "section": "Visualisations interactives",
+    "text": "Visualisations interactives\n\n\n\n\n\n\n\n\n\nNoteWorld Borders\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteTrading Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteBird Migrations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteColonization of the US\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteCommuters Monaco\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteGentrification Montreuil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteInternational Organizations of Africa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteSchool Segregation"
+  },
+  {
+    "objectID": "realisations/realisations.html",
+    "href": "realisations/realisations.html",
+    "title": "Réalisations",
+    "section": "",
+    "text": "2025-2026 : réalisation du numéro 8 du magazine Space sur les frontières"
+  },
+  {
+    "objectID": "realisations/realisations.html#réalisations-des-étudiantes-du-m2-carthagéo",
+    "href": "realisations/realisations.html#réalisations-des-étudiantes-du-m2-carthagéo",
+    "title": "Réalisations",
+    "section": "",
+    "text": "2025-2026 : réalisation du numéro 8 du magazine Space sur les frontières"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/colonization_united_states.html",
+    "href": "realisations/projet_edito_2025-2026/colonization_united_states.html",
+    "title": "Colonization of the US",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/school_segregation.html",
+    "href": "realisations/projet_edito_2025-2026/school_segregation.html",
+    "title": "School Segregation",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/international_organizations_africa.html",
+    "href": "realisations/projet_edito_2025-2026/international_organizations_africa.html",
+    "title": "International Organizations of Africa",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/bird_migration.html",
+    "href": "realisations/projet_edito_2025-2026/bird_migration.html",
+    "title": "Bird Migrations",
+    "section": "",
+    "text": "View webpage in full screen"
   },
   {
     "objectID": "m2.html",
     "href": "m2.html",
     "title": "Le Master 2",
     "section": "",
-    "text": "Programme\n\n\n\n\n\nSEMESTRE 1\n\n\nUE 1 : Stages de mise à niveau (3 ECTS)\n\n\nLogiciels de cartographie\n12h\n\n\nLogiciels de statistiques et d'analyse spatiale\n12h\n\n\nAnalyse des données\n12h\n\n\nUE 2 : Bases de données et interopérabilité (6 ECTS)\n\n\nBases de données spatiales\n36h\n\n\nNormalisation et interopérabilité\n12h\n\n\nTransformations automatisées (FME)\n12h\n\n\nUE 3 : SIG et développements informatiques (6 ECTS)\n\n\nInitiation à la programmation (algorithmie)\n52h\n\n\nDéveloppements sous SIG\n90h\n\n\nUE 4 : Analyse spatiale (6 ECTS)\n\n\nStage d'analyse de données avec R\n30h\n\n\nAnalyse spatiale et statistiques\n24h\n\n\nAnalyse spatiale et SIG\n24h\n\n\nUE 5 : Cartographie (6 ECTS)\n\n\nSéminaire Histoire et pratique de la cartographie\n14h\n\n\nSémiologie graphique statique et dynamique\n60h\n\n\nUE 6 : Géomatique - Recherche et applications (3 ECTS)\n\n\nSéminaire de recherche : Approches thématiques\n20h\n\n\nRencontres métiers - BILINGUE\n14h\n\n\nRépondre à un appel d'offre\n9h\n\n\nSEMESTRE 2\n\n\nUE 1 : Projets cartographiques (12 ECTS)\n\n\nProjet de cartographie éditoriale - BILINGUE\n44h\n\n\nProjet transversal d'analyse spatiale\n27h\n\n\nUE 2 : Géovisualisation (6 ECTS)\n\n\nIntroduction aux langages du Web\n24h\n\n\nPrincipes de géovisualisation\n12h\n\n\nDiffusion cartographique sur Internet (webmapping)\n90h"
+    "text": "Programme"
+  },
+  {
+    "objectID": "m1.html#enseignements",
+    "href": "m1.html#enseignements",
+    "title": "Le Master 1",
+    "section": "Enseignements",
+    "text": "Enseignements\n\nUniversité Paris CitéUniversité Paris 1 Panthéon-Sorbonne\n\n\n\n# library(tidyverse)\n# library(glue)\n# library(kableExtra) --&gt;"
   },
   {
     "objectID": "admission.html",
@@ -89,61 +166,5 @@
     "title": "Rejoindre le Master Carthagéo",
     "section": "Admission directe en M2",
     "text": "Admission directe en M2\nSous réserve qu’il y ait des places disponibles (ce qui n’est pas le cas tous les ans), il est également possible de candidater directement en M2 pour les étudiant.es qui auraient déjà un diplôme de Master 2 (ou de Master 1) et des compétences avérées dans les domaines de la géomatique et de la cartographie.\nDans ces cas là, les candidatures se font via les plateformes dédiées de chaque université, et la sélection est effectuée sur dossier.\n\nPour rejoindre le M2 Carthagéo à l’Université Paris 1 Panthéon-Sorbonne : eCandidat Paris 1\nPour rejoindre le M2 Carthagéo à l’Université Paris Cité : eCandidat Paris Cité\n\n\n\n\n\n\n\nImportantAdmission en M2 pour l’année 2026\n\n\n\nIl devrait vraisemblablement y avoir une place en admission directe à Paris 1, et une place en admission directe à UPC. Ces informations seront mises à jour en février 2026."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Master Carthagéo",
-    "section": "",
-    "text": "Le master Carthagéo est une formation à la gestion, l’analyse et le traitement de données géographiques ainsi qu’à la restitution cartographique (cartographie dynamique, webmapping). Sa singularité réside dans l’accent mis sur les représentations cartographiques d’une part et sur l’analyse spatiale d’autre part.\nL’objectif du master Carthagéo est de former des cadres en géomatique et en analyse de données géolocalisées : dans un contexte marqué par l’explosion de la production de données géolocalisées, il est plus que jamais nécessaire de maîtriser l’ensemble de ces de techniques et modèles permettant d’appliquer des structures formelles à ces systèmes.\nPar un ensemble de méthodes mathématiques, statistiques et informatiques, les étudiants acquièrent la capacité de modéliser, d’analyser et de cartographier les organisations spatiales et leurs dynamiques. Les étudiants sont solidement formés à la dimension numérique de la gestion, de l’analyse et de la représentation de l’information géographique, mais ils sont aussi préparés à appréhender la dimension sémantique et thématique de l’information géographique. La co-habilitation Université - Géodata Paris permet d’assumer la double généalogie de la géomatique : les Sciences de l’Ingénieur d’une part, avec une forte composante informatique, et la Géographie d’autre part, avec un ancrage dans les Sciences Humaines et Sociales (SHS).\nL’enseignement couple des approches méthodologiques et techniques professionnelles de production cartographique : cours de SIG, de modélisation des bases de données, de programmation et de webmapping qui permettent ainsi la mise en œuvre de ces méthodes sur des questions appliquées relevant des domaines de l’environnement, de la ville durable, de la gestion territoriale…"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html",
-    "href": "realisations/projet-editorial-2025-2026.html",
-    "title": "Space n°8 - Borders",
-    "section": "",
-    "text": "Projet éditorial 2025-2026 : Space n°8 - Borders"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html#le-pdf",
-    "href": "realisations/projet-editorial-2025-2026.html#le-pdf",
-    "title": "Space n°8 - Borders",
-    "section": "Le pdf",
-    "text": "Le pdf"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-1",
-    "href": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-1",
-    "title": "Space n°8 - Borders",
-    "section": "Visu additionnelle 1",
-    "text": "Visu additionnelle 1"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-2",
-    "href": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-2",
-    "title": "Space n°8 - Borders",
-    "section": "Visu additionnelle 2",
-    "text": "Visu additionnelle 2"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-3",
-    "href": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-3",
-    "title": "Space n°8 - Borders",
-    "section": "Visu additionnelle 3",
-    "text": "Visu additionnelle 3"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-4",
-    "href": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-4",
-    "title": "Space n°8 - Borders",
-    "section": "Visu additionnelle 4",
-    "text": "Visu additionnelle 4"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-5",
-    "href": "realisations/projet-editorial-2025-2026.html#visu-additionnelle-5",
-    "title": "Space n°8 - Borders",
-    "section": "Visu additionnelle 5",
-    "text": "Visu additionnelle 5"
   }
 ]
