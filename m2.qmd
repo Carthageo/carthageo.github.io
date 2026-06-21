@@ -4,7 +4,10 @@ title: "Le Master 2"
 
 # Programme
 
+<!-- 
+
 ```{r}
+#| eval: false
 #| echo: false
 #| output: false
 #| warning: false
@@ -16,11 +19,13 @@ library(kableExtra)
 ```
 
 ```{r}
+#| eval: false
 #| echo: false
 #| file: ressources/maquette_to_table.R
 ```
 
 ```{r}
+#| eval: false
 #| echo: false
 #| message: false
 
@@ -33,3 +38,4 @@ table_from_df(maquette_m2)
 
 
 
+-->

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Montreuil – Gentrification</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { height: 100%; width: 100%; }
+
+    .page {
+      min-height: 100svh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .viewport {
+      position: relative;
+      flex: 1 1 auto;
+      overflow: hidden;
+      padding: 0;                 /* le JS gère l’air */
+      display: flex;
+      justify-content: center;
+      align-items: center;        /* centre verticalement */
+    }
+
+    #stage {
+      transform-origin: top left;
+      will-change: transform;
+    }
+
+    /* Layout interne : un seul bloc (la carte) */
+    .layout {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+    }
+
+    /* --- CSS générique Observable --- */
+    .observable-wrap { display: block; }
+
+    .observable-wrap svg {
+      height: auto;
+      max-width: 100%;
+    }
+
+    .observable-wrap .observablehq,
+    .observable-wrap .observablehq--inspect,
+    .observable-wrap .observablehq--inspect > * {
+      background: transparent !important;
+      border: 0 !important;
+      box-shadow: none !important;
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+
+    footer { display: none; }
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <div class="viewport">
+      <div id="stage">
+        <div class="layout">
+          <!-- Nouveau div Observable -->
+          <div id="observablehq-gentrification_2-347d6eab" class="observable-wrap"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module">
+    import { Runtime, Inspector } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+    import define from "https://api.observablehq.com/d/00c76b92be169c2d.js?v=4";
+
+    const stage = document.getElementById("stage");
+    const elCarte = document.querySelector("#observablehq-gentrification_2-347d6eab");
+
+    const runtime = new Runtime();
+    runtime.module(define, (name) => {
+      if (name === "gentrification_2") return new Inspector(elCarte);
+    });
+
+    function fitToViewport() {
+      stage.style.transform = "none";
+
+      const viewport = document.querySelector(".viewport");
+      const safe = 18;
+
+      const availW = viewport.clientWidth - safe * 2;
+      const availH = viewport.clientHeight - safe * 2;
+
+      const rect = stage.getBoundingClientRect();
+      const w = Math.max(rect.width, stage.scrollWidth);
+      const h = Math.max(rect.height, stage.scrollHeight);
+      if (w === 0 || h === 0) return;
+
+      let scale = Math.min(availW / w, availH / h, 1);
+      scale = Math.round(scale * 1000) / 1000;
+
+      stage.style.transform = `scale(${scale})`;
+
+      const scaledW = w * scale;
+      const scaledH = h * scale;
+
+      const left = safe + Math.max(0, (availW - scaledW) / 2);
+      const top  = safe + Math.max(0, (availH - scaledH) / 2);
+
+      stage.style.position = "absolute";
+      stage.style.left = `${Math.round(left)}px`;
+      stage.style.top  = `${Math.round(top)}px`;
+    }
+
+    const ro = new ResizeObserver(() => fitToViewport());
+    ro.observe(stage);
+
+    window.addEventListener("resize", fitToViewport);
+    setTimeout(fitToViewport, 150);
+    setTimeout(fitToViewport, 500);
+    setTimeout(fitToViewport, 1200);
+  </script>
+</body>
+</html>

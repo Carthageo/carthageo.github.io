@@ -1,14 +1,17 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - realisations/projet_edito_2025-2026/assets/*
+    - realisations/projet_edito_2025-2026/img/*
 
 execute: 
-  freeze: auto
+  freeze: false
 
 website:
   title: "Master Carthagéo"
   google-analytics: "G-Y4HLV126SE"
-  favicon: "img/favicon.png"
+  favicon: "/img/favicon.png"
   twitter-card: true
   site-url: https://carthageo.github.io
   open-graph: 
@@ -16,11 +19,11 @@ website:
     site-name: Master Carthagéo
   page-footer: 
     left: |
-      [![](img/logo_Paris1_min.png){fig-alt="Université Paris 1 Panthéon-Sorbonne" height=75px}](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-geographie-KBUW66GE//master-parcours-carthageo-KBUW66XE.html)
+      [![](/img/logo_Paris1_min.png){fig-alt="Université Paris 1 Panthéon-Sorbonne" height=75px}](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-geographie-KBUW66GE//master-parcours-carthageo-KBUW66XE.html)
     center: |
-      [![](img/logo_GeoDataParis.jpg){fig-alt="Géodata Paris" height=75px}](https://geodata-paris.fr/fr/formation-initiale/master-2-carthageo)
+      [![](/img/logo_GeoDataParis.jpg){fig-alt="Géodata Paris" height=75px}](https://geodata-paris.fr/fr/formation-initiale/master-2-carthageo)
     right: |
-      [![](img/logo_UPC_min.png){fig-alt="Université Paris Cité" height=75px}](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-humaines-et-sociales-SHS/geographie-amenagement-environnement-et-developpement-K2VO0KVP/master-gaed-parcours-conception-et-construction-de-realisations-geomatiques-carthageo-M34CBYQO.html)
+      [![](/img/logo_UPC_min.png){fig-alt="Université Paris Cité" height=75px}](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-humaines-et-sociales-SHS/geographie-amenagement-environnement-et-developpement-K2VO0KVP/master-gaed-parcours-conception-et-construction-de-realisations-geomatiques-carthageo-M34CBYQO.html)
   navbar:
     logo: "img/LOGO_CARTHAGEO.png"
     left:

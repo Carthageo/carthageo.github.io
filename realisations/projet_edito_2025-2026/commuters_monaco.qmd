@@ -1,0 +1,8 @@
+---
+title: "Commuters Monaco"
+date: "2026/06/21"
+date-format: "[Page mise à jour le :] DD/MM/YYYY"
+---
+
+
+{{< html file="assets/commuters_monaco.html" height="800px" width="100%">}}

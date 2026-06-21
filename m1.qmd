@@ -9,9 +9,10 @@ title: "Le Master 1"
 ::: {.panel-tabset}
 ### Université Paris Cité
 
+<!--
 
 ```{r}
-#| echo: false
+#| eval: false
 #| output: false
 #| warning: false
 
@@ -21,12 +22,14 @@ library(kableExtra)
 ```
 
 
-
+-->
 
 ### Université Paris 1 Panthéon-Sorbonne
 
+<!--
 
 ```{r}
+#| eval: false
 #| echo: false
 #| output: false
 #| warning: false
@@ -64,6 +67,7 @@ semestre_infos <- ue_indexes %>% group_by(Semestre) %>%
 ```
 
 ```{r}
+#| eval: false
 #| echo: false
 kbl(maquette_m2 %>% filter(!is.na(Cours)) %>% select(-Semestre, -UE, -ECTS), col.names = NULL) %>%
   kable_paper("striped", full_width = F) %>%
@@ -72,5 +76,7 @@ kbl(maquette_m2 %>% filter(!is.na(Cours)) %>% select(-Semestre, -UE, -ECTS), col
 ```
 
 
-
 :::
+
+
+-->

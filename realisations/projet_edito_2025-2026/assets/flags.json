@@ -1,0 +1,41 @@
+{
+  "Portugal": [
+    { "from": 1498, "to": 1910, "icon": "portugal-1498.svg" },
+    { "from": 1910, "to": 2100, "icon": "portugal-1910.svg" }
+  ],
+
+  "Netherlands": [
+    { "from": 1511, "to": 1795, "icon": "netherlands-1511.svg" },
+    { "from": 1795, "to": 2100, "icon": "netherlands-1795.svg" }
+  ],
+
+  "France": [
+    { "from": 1673, "to": 1792, "icon": "france-1673.svg" },
+    { "from": 1792, "to": 2100, "icon": "france-1792.svg" }
+  ],
+
+  "Spain": [
+    { "from": 1520, "to": 1785, "icon": "spain-1520.svg" },
+    { "from": 1785, "to": 2100, "icon": "spain-1785.svg" }
+  ],
+
+  "Great-Britain": [
+    { "from": 1603, "to": 2100, "icon": "uk.svg" }
+  ],
+
+  "Denmark": [
+    { "from": 1620, "to": 2100, "icon": "denmark.svg" }
+  ],
+
+  "Sweden": [
+    { "from": 1733, "to": 2100, "icon": "sweden.svg" }
+  ],
+
+  "Safavid": [
+    { "from": 1501, "to": 1852, "icon": "safavid.svg" }
+  ],
+
+  "Moghol": [
+    { "from": 1505, "to": 1796, "icon": "moghol.svg" }
+  ]
+}

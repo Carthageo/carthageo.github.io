@@ -1,0 +1,8 @@
+---
+title: "International Organizations of Africa"
+date: "2026/06/21"
+date-format: "[Page mise à jour le :] DD/MM/YYYY"
+---
+
+
+{{< html file="assets/international_organizations_africa.html" height="800px" width="100%">}}

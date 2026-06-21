@@ -1,0 +1,8 @@
+---
+title: "School Segregation"
+date: "2026/06/21"
+date-format: "[Page mise à jour le :] DD/MM/YYYY"
+---
+
+
+{{< html file="assets/school_segregation.html" height="800px" width="100%">}}

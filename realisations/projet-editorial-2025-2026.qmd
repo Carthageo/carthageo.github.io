@@ -1,19 +1,66 @@
 ---
 title: "Space n°8 - Borders"
-date: "2026/02/18"
+date: "2026/06/21"
 date-format: "[Page mise à jour le :] DD/MM/YYYY"
+lightbox: false
+format:
+  html:
+    grid:
+        sidebar-width: 0px
+        body-width: 1200px
+        margin-width: 400px
+        gutter-width: 1.5rem
 ---
 
 **Projet éditorial 2025-2026 : Space n°8 - Borders**
 
-## Le pdf
+## La plaquette
 
-## Visu additionnelle 1
+{{< pdf file="projet_edito_2025-2026/Test_Carthageo_Bibliographie_Unifiee_2025.pdf"  height="400px">}}
 
-## Visu additionnelle 2
+## Visualisations interactives
 
-## Visu additionnelle 3
+::: {layout-ncol=3}
 
-## Visu additionnelle 4
+:::: {.callout-note appearance="minimal" style="height:350px"}
+### World Borders
+[![](projet_edito_2025-2026/img/world_borders.png){.well width=80% fig-align="center"}](projet_edito_2025-2026/world_borders.qmd)
+::::
 
-## Visu additionnelle 5
+:::: {.callout-note appearance="minimal" style="height:350px"}
+### Trading Posts
+[![](projet_edito_2025-2026/img/trading_posts.png){.well width=80% fig-align="center"}](projet_edito_2025-2026/trading_posts.qmd)
+::::
+
+:::: {.callout-note appearance="minimal" style="height:350px"}
+### Bird Migrations
+[![](projet_edito_2025-2026/img/bird_migrations.png){.well width=80% fig-align="center"}](projet_edito_2025-2026/bird_migration.qmd)
+::::
+
+:::: {.callout-note appearance="minimal" style="height:350px"}
+### Colonization of the US
+[![](projet_edito_2025-2026/img/us_colonization.png){.well width=80% fig-align="center"}](projet_edito_2025-2026/colonization_united_states.qmd)
+::::
+
+:::: {.callout-note appearance="minimal" style="height:350px"}
+### Commuters Monaco
+[![](projet_edito_2025-2026/img/commuters_monaco.png){.well width=80% fig-align="center"}](projet_edito_2025-2026/commuters_monaco.qmd)
+::::
+
+:::: {.callout-note appearance="minimal" style="height:350px"}
+### Gentrification Montreuil
+[![](projet_edito_2025-2026/img/gentrification.png){.well width=80% fig-align="center"}](projet_edito_2025-2026/gentrification.qmd)
+::::
+
+:::: {.callout-note appearance="minimal" style="height:350px"}
+### International Organizations of Africa
+[![](projet_edito_2025-2026/img/orgs_africa.png){.well width=80% fig-align="center"}](projet_edito_2025-2026/international_organizations_africa.qmd)
+::::
+
+:::: {.callout-note appearance="minimal" style="height:350px"}
+### School Segregation
+[![](projet_edito_2025-2026/img/school_segregation.png){.well width=80% fig-align="center"}](projet_edito_2025-2026/school_segregation.qmd)
+::::
+
+
+:::

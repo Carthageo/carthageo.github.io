@@ -1,0 +1,8 @@
+---
+title: "Bird Migrations"
+date: "2026/06/21"
+date-format: "[Page mise à jour le :] DD/MM/YYYY"
+---
+
+
+{{< html file="assets/bird_migration.html" height="800px" width="100%">}}

@@ -1,0 +1,8 @@
+---
+title: "Colonization of the US"
+date: "2026/06/21"
+date-format: "[Page mise à jour le :] DD/MM/YYYY"
+---
+
+
+{{< html file="assets/colonization_united_states.html" height="800px" width="100%">}}
