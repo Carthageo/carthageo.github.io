@@ -4,7 +4,6 @@ title: "Le Master 2"
 
 # Programme
 
-<!-- 
 
 ```{r}
 #| eval: false
@@ -12,9 +11,9 @@ title: "Le Master 2"
 #| output: false
 #| warning: false
 
-library(tidyverse)
-library(glue)
-library(kableExtra)
+# library(tidyverse)
+# library(glue)
+# library(kableExtra)
 
 ```
 
@@ -35,7 +34,3 @@ maquette_m2 <- read_csv2("ressources/Maquette_M2_num.csv", col_types = cols()) %
 
 table_from_df(maquette_m2)
 ```
-
-
-
--->

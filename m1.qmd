@@ -9,24 +9,21 @@ title: "Le Master 1"
 ::: {.panel-tabset}
 ### Université Paris Cité
 
-<!--
+
 
 ```{r}
 #| eval: false
 #| output: false
 #| warning: false
 
-library(tidyverse)
-library(glue)
-library(kableExtra)
+# library(tidyverse)
+# library(glue)
+# library(kableExtra) -->
 ```
 
 
--->
-
 ### Université Paris 1 Panthéon-Sorbonne
 
-<!--
 
 ```{r}
 #| eval: false
@@ -34,9 +31,9 @@ library(kableExtra)
 #| output: false
 #| warning: false
 
-library(tidyverse)
-library(glue)
-library(kableExtra)
+# library(tidyverse)
+# library(glue)
+# library(kableExtra)
 
 maquette_m2 <- read_csv2("ressources/Maquette_M2_num.csv") %>%
   mutate(Heures = glue("{Heures}h")) %>%
@@ -79,4 +76,3 @@ kbl(maquette_m2 %>% filter(!is.na(Cours)) %>% select(-Semestre, -UE, -ECTS), col
 :::
 
 
--->
