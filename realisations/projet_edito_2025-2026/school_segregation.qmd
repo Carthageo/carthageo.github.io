@@ -6,3 +6,5 @@ date-format: "[Page mise à jour le :] DD/MM/YYYY"
 
 
 {{< html file="assets/school_segregation.html" height="800px" width="100%">}}
+
+Source : Sylvain Maugis, « Six types de collèges différenciés par la population accueillie et la situation géographique », publication de la DEPP, janvier 2020
