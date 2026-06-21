@@ -27,10 +27,6 @@ jobs:
               any::knitr
               any::rmarkdown
               any::downlit
-              any::xml2
-        #     any::tidyverse
-        #     any::glue
-        #     any::kableExtra
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
