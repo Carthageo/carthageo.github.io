@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Navetteurs France–Monaco</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1100px;
+      margin: 20px auto;
+    }
+
+    .container {
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+      height: 400px;
+    }
+
+    #chartBox {
+      flex: 2;
+    }
+
+    #info {
+      flex: 1;
+      margin-top: 0;
+      padding: 15px;
+      border: 1px solid #ddd;
+      background: #f9f9f9;
+      height: 150px;
+      overflow-y: auto;
+    }
+
+  </style>
+</head>
+<body>
+
+  <h2>Share of commuters to Monaco by distance</h2>
+  <h4>The less important the distance to the border is, the more commuters you find in the municipality</h4>
+
+  <div class="container">
+
+    <div id="chartBox">
+      <canvas id="barChart"></canvas>
+    </div>
+
+    <div id="info">
+      Cliquez sur une barre pour afficher les infos ici.
+    </div>
+
+  </div>
+
+  <script>
+    // données + JS ici
+    const data = [
+      {
+        "commune": "Beausoleil",
+        "emploi_total": 6370,
+        "frontaliers": 4260,
+        "part_frontaliers": "66,9",
+        "distance_km": 1,
+        "rang": 1
+      },
+      {
+        "commune": "Cap-d'Ail",
+        "emploi_total": 2060,
+        "frontaliers": 1230,
+        "part_frontaliers": "59,7",
+        "distance_km": 2,
+        "rang": 2
+      },
+      {
+        "commune": "La Turbie",
+        "emploi_total": 1420,
+        "frontaliers": 690,
+        "part_frontaliers": "48,6",
+        "distance_km": 2,
+        "rang": 3
+      },
+      {
+        "commune": "Roquebrune-Cap-Martin",
+        "emploi_total": 5410,
+        "frontaliers": 2840,
+        "part_frontaliers": "52,5",
+        "distance_km": 5,
+        "rang": 4
+      },
+      {
+        "commune": "Eze",
+        "emploi_total": 1050,
+        "frontaliers": 380,
+        "part_frontaliers": "36,2",
+        "distance_km": 6,
+        "rang": 5
+      },
+      {
+        "commune": "Gorbio",
+        "emploi_total": 580,
+        "frontaliers": 260,
+        "part_frontaliers": "44,8",
+        "distance_km": 6,
+        "rang": 6
+      },
+      {
+        "commune": "Peillon",
+        "emploi_total": 650,
+        "frontaliers": 50,
+        "part_frontaliers": "7,7",
+        "distance_km": 6,
+        "rang": 7
+      },
+      {
+        "commune": "Beaulieu-sur-Mer",
+        "emploi_total": 1510,
+        "frontaliers": 310,
+        "part_frontaliers": "20,5",
+        "distance_km": 7,
+        "rang": 8
+      },
+      {
+        "commune": "La Trinite",
+        "emploi_total": 4320,
+        "frontaliers": 380,
+        "part_frontaliers": "8,8",
+        "distance_km": 7,
+        "rang": 9
+      },
+      {
+        "commune": "Drap",
+        "emploi_total": 1710,
+        "frontaliers": 80,
+        "part_frontaliers": "4,7",
+        "distance_km": 8,
+        "rang": 10
+      },
+      {
+        "commune": "Menton",
+        "emploi_total": 10730,
+        "frontaliers": 3670,
+        "part_frontaliers": "34,2",
+        "distance_km": 8,
+        "rang": 11
+      },
+      {
+        "commune": "Peille",
+        "emploi_total": 1040,
+        "frontaliers": 220,
+        "part_frontaliers": "21,2",
+        "distance_km": 8,
+        "rang": 12
+      },
+      {
+        "commune": "Saint-Jean-Cap-Ferrat",
+        "emploi_total": 710,
+        "frontaliers": 60,
+        "part_frontaliers": "8,5",
+        "distance_km": 8,
+        "rang": 13
+      },
+      {
+        "commune": "Blausasc",
+        "emploi_total": 660,
+        "frontaliers": 50,
+        "part_frontaliers": "7,6",
+        "distance_km": 9,
+        "rang": 14
+      },
+      {
+        "commune": "Cantaron",
+        "emploi_total": 540,
+        "frontaliers": 30,
+        "part_frontaliers": "5,6",
+        "distance_km": 9,
+        "rang": 15
+      },
+      {
+        "commune": "Sainte-Agnes",
+        "emploi_total": 560,
+        "frontaliers": 200,
+        "part_frontaliers": "35,7",
+        "distance_km": 9,
+        "rang": 16
+      },
+      {
+        "commune": "Villefranche-sur-Mer",
+        "emploi_total": 1940,
+        "frontaliers": 230,
+        "part_frontaliers": "11,9",
+        "distance_km": 9,
+        "rang": 17
+      },
+      {
+        "commune": "Castellar",
+        "emploi_total": 460,
+        "frontaliers": 130,
+        "part_frontaliers": "28,3",
+        "distance_km": 10,
+        "rang": 18
+      },
+      {
+        "commune": "Castillon",
+        "emploi_total": 190,
+        "frontaliers": 60,
+        "part_frontaliers": "31,6",
+        "distance_km": 12,
+        "rang": 19
+      },
+      {
+        "commune": "Contes",
+        "emploi_total": 3300,
+        "frontaliers": 150,
+        "part_frontaliers": "4,5",
+        "distance_km": 12,
+        "rang": 20
+      },
+      {
+        "commune": "L'Escarene",
+        "emploi_total": 980,
+        "frontaliers": 50,
+        "part_frontaliers": "5,1",
+        "distance_km": 12,
+        "rang": 21
+      },
+      {
+        "commune": "Falicon",
+        "emploi_total": 840,
+        "frontaliers": 40,
+        "part_frontaliers": "4,8",
+        "distance_km": 12,
+        "rang": 22
+      },
+      {
+        "commune": "Berre-les-Alpes",
+        "emploi_total": 570,
+        "frontaliers": 30,
+        "part_frontaliers": "5,3",
+        "distance_km": 13,
+        "rang": 23
+      },
+      {
+        "commune": "Chateauneuf-Villevieille",
+        "emploi_total": 400,
+        "frontaliers": 30,
+        "part_frontaliers": "7,5",
+        "distance_km": 13,
+        "rang": 24
+      },
+      {
+        "commune": "Nice",
+        "emploi_total": 128160,
+        "frontaliers": 7490,
+        "part_frontaliers": "5,8",
+        "distance_km": 13,
+        "rang": 25
+      },
+      {
+        "commune": "Touët-de-l'Escarene",
+        "emploi_total": 140,
+        "frontaliers": 10,
+        "part_frontaliers": "7,1",
+        "distance_km": 13,
+        "rang": 26
+      },
+      {
+        "commune": "Tourrette-Levens",
+        "emploi_total": 2100,
+        "frontaliers": 120,
+        "part_frontaliers": "5,7",
+        "distance_km": 13,
+        "rang": 27
+      },
+      {
+        "commune": "Aspremont",
+        "emploi_total": 970,
+        "frontaliers": 40,
+        "part_frontaliers": "4,1",
+        "distance_km": 15,
+        "rang": 28
+      },
+      {
+        "commune": "Bendejun",
+        "emploi_total": 410,
+        "frontaliers": 20,
+        "part_frontaliers": "4,9",
+        "distance_km": 15,
+        "rang": 29
+      },
+      {
+        "commune": "Castagniers",
+        "emploi_total": 700,
+        "frontaliers": 10,
+        "part_frontaliers": "1,4",
+        "distance_km": 16,
+        "rang": 30
+      },
+      {
+        "commune": "Colomars",
+        "emploi_total": 1460,
+        "frontaliers": 50,
+        "part_frontaliers": "3,4",
+        "distance_km": 16,
+        "rang": 31
+      },
+      {
+        "commune": "Saint-Blaise",
+        "emploi_total": 500,
+        "frontaliers": 10,
+        "part_frontaliers": 2,
+        "distance_km": 17,
+        "rang": 32
+      },
+      {
+        "commune": "Sospel",
+        "emploi_total": 1490,
+        "frontaliers": 350,
+        "part_frontaliers": "23,5",
+        "distance_km": 17,
+        "rang": 33
+      },
+      {
+        "commune": "Coaraze",
+        "emploi_total": 380,
+        "frontaliers": 10,
+        "part_frontaliers": "2,6",
+        "distance_km": 18,
+        "rang": 34
+      },
+      {
+        "commune": "Carros",
+        "emploi_total": 4940,
+        "frontaliers": 100,
+        "part_frontaliers": 2,
+        "distance_km": 19,
+        "rang": 35
+      },
+      {
+        "commune": "Gattieres",
+        "emploi_total": 1790,
+        "frontaliers": 60,
+        "part_frontaliers": "3,4",
+        "distance_km": 20,
+        "rang": 36
+      },
+      {
+        "commune": "Levens",
+        "emploi_total": 2010,
+        "frontaliers": 100,
+        "part_frontaliers": 5,
+        "distance_km": 20,
+        "rang": 37
+      },
+      {
+        "commune": "Saint-Laurent-du-Var",
+        "emploi_total": 12730,
+        "frontaliers": 390,
+        "part_frontaliers": "3,1",
+        "distance_km": 20,
+        "rang": 38
+      },
+      {
+        "commune": "La Gaude",
+        "emploi_total": 2830,
+        "frontaliers": 60,
+        "part_frontaliers": "2,1",
+        "distance_km": 22,
+        "rang": 39
+      },
+      {
+        "commune": "Saint-Jeannet",
+        "emploi_total": 1750,
+        "frontaliers": 40,
+        "part_frontaliers": "2,3",
+        "distance_km": 22,
+        "rang": 40
+      },
+      {
+        "commune": "Moulinet",
+        "emploi_total": 100,
+        "frontaliers": 20,
+        "part_frontaliers": 20,
+        "distance_km": 23,
+        "rang": 41
+      },
+      {
+        "commune": "Breil-sur-Roya",
+        "emploi_total": 760,
+        "frontaliers": 70,
+        "part_frontaliers": "9,2",
+        "distance_km": 24,
+        "rang": 42
+      },
+      {
+        "commune": "Lantosque",
+        "emploi_total": 500,
+        "frontaliers": 10,
+        "part_frontaliers": 2,
+        "distance_km": 28,
+        "rang": 43
+      },
+      {
+        "commune": "Ensemble Alpes-Maritimes",
+        "emploi_total": 429800,
+        "frontaliers": 26700,
+        "part_frontaliers": "6,2",
+        "distance_km": "",
+        "rang": ""
+      }
+    ];
+
+    const labels = data.map(d => d.rang);
+    const values = data.map(d =>
+      Number(String(d.part_frontaliers).replace(',', '.'))
+    );
+    let selectedIndex = null;
+
+    const ctx = document.getElementById('barChart').getContext('2d');
+
+    const chart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: labels,
+        datasets: [{
+          label: "Share of commuters (%)",
+          data: values,
+          backgroundColor: "rgba(171, 68, 74, 0.6)",
+          borderColor: "rgba(171, 68, 74, 1)",
+          hoverBackgroundColor: "rgba(121, 14, 23, 0.9)",
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true,
+            max: 100,
+            title: {
+              display: true,
+              text: "Share of commuters (%)"
+            },
+            ticks: {
+              callback: value => value + " %"
+            }
+          },
+          x: {
+            title: {
+              display: true,
+              text: "Distance rank in Monaco"
+            }
+          }
+        },
+        onClick: handleClick
+      }
+    });
+
+    function handleClick(evt, elements) {
+      if (!elements.length) return;
+
+      const index = elements[0].index;
+
+      // Si on reclique sur la même barre → désélection
+      if (selectedIndex === index) {
+        selectedIndex = null;
+      } else {
+        selectedIndex = index;
+      }
+
+      // Met à jour les couleurs
+      chart.data.datasets[0].backgroundColor = values.map((_, i) =>
+        i === selectedIndex
+          ? "rgba(121, 14, 23, 1)"   // couleur sélectionnée
+          : "rgba(171, 68, 74, 0.6)" // couleur normale
+      );
+
+      chart.data.datasets[0].borderColor = values.map((_, i) =>
+        i === selectedIndex
+          ? "rgba(121, 14, 23, 1)"
+          : "rgba(171, 68, 74, 1)"
+      );
+
+      chart.update();
+
+      // Met à jour le panneau info
+      if (selectedIndex !== null) {
+        const d = data[selectedIndex];
+
+        document.getElementById("info").innerHTML = `
+          <strong>${d.commune}</strong><br>
+          Distance to Monaco (straight-line) : ${d.distance_km} km<br>
+          Total employment : ${d.emploi_total.toLocaleString()}<br>
+          Number of commuters : ${d.frontaliers.toLocaleString()}<br>
+          Share of commuters : <strong>${d.part_frontaliers} %</strong>
+        `;
+      } else {
+        document.getElementById("info").innerHTML =
+          "Cliquez sur une barre pour afficher les infos ici.";
+      }
+    }
+
+  </script>
+
+</body>
+</html>

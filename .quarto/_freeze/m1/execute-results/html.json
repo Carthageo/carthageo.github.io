@@ -1,0 +1,15 @@
+{
+  "hash": "bf702ba0ee6d4843d0654f9f2d3723e2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Le Master 1\"\n---\n\n## Organisation\n\n## Enseignements\n\n::: {.panel-tabset}\n### Université Paris Cité\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# library(tidyverse)\n# library(glue)\n# library(kableExtra) -->\n```\n:::\n\n\n\n### Université Paris 1 Panthéon-Sorbonne\n\n\n\n::: {.cell}\n\n:::\n\n\n\n::: {.cell}\n\n:::\n\n\n\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

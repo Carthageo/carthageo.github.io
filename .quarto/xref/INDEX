@@ -1,0 +1,50 @@
+{
+  "realisations/realisations.qmd": {
+    "realisations.html": "bd0dbdc2"
+  },
+  "realisations/projet-editorial-2025-2026.qmd": {
+    "projet-editorial-2025-2026.html": "c4ff4acd"
+  },
+  "realisations/projet_edito_2025-2026/colonization_united_states.qmd": {
+    "colonization_united_states.html": "f137afd3"
+  },
+  "realisations/projet_edito_2025-2026/trading_posts.qmd": {
+    "trading_posts.html": "5b21176f"
+  },
+  "realisations/projet_edito_2025-2026/school_segregation.qmd": {
+    "school_segregation.html": "1a3b1cb5"
+  },
+  "realisations/projet_edito_2025-2026/commuters_monaco.qmd": {
+    "commuters_monaco.html": "65a50196"
+  },
+  "realisations/projet_edito_2025-2026/international_organizations_africa.qmd": {
+    "international_organizations_africa.html": "f3f2828d"
+  },
+  "realisations/projet_edito_2025-2026/world_borders.qmd": {
+    "world_borders.html": "d38b5ac6"
+  },
+  "realisations/projet_edito_2025-2026/bird_migration.qmd": {
+    "bird_migration.html": "4d3b4419"
+  },
+  "realisations/projet_edito_2025-2026/gentrification.qmd": {
+    "gentrification.html": "af369796"
+  },
+  "m2.qmd": {
+    "m2.html": "e10e1e7f"
+  },
+  "about.qmd": {
+    "about.html": "1a468e75"
+  },
+  "m1.qmd": {
+    "m1.html": "5a6b00cc"
+  },
+  "apres.qmd": {
+    "apres.html": "07ecabbd"
+  },
+  "admission.qmd": {
+    "admission.html": "fbde3605"
+  },
+  "index.qmd": {
+    "index.html": "d3201362"
+  }
+}
