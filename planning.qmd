@@ -1,0 +1,8 @@
+---
+title: "Planning 2026/2027"
+date: "2026/08/19"
+date-format: "[Page mise à jour le :] DD/MM/YYYY"
+---
+
+
+{{< html file="ressources/calendar_2026-2027.html" height="800px" width="100%">}}
