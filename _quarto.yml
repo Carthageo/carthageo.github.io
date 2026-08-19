@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
+    - ressources/planning_2026-2027.json
     - realisations/projet_edito_2025-2026/assets/*
     - realisations/projet_edito_2025-2026/img/*
 
