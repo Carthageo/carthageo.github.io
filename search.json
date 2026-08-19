@@ -1,10 +1,73 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Master Carthagéo",
+    "objectID": "planning.html",
+    "href": "planning.html",
+    "title": "Planning 2026/2027",
     "section": "",
-    "text": "Le master Carthagéo est une formation à la gestion, l’analyse et le traitement de données géographiques ainsi qu’à la restitution cartographique (cartographie dynamique, webmapping). Sa singularité réside dans l’accent mis sur les représentations cartographiques d’une part et sur l’analyse spatiale d’autre part.\nL’objectif du master Carthagéo est de former des cadres en géomatique et en analyse de données géolocalisées : dans un contexte marqué par l’explosion de la production de données géolocalisées, il est plus que jamais nécessaire de maîtriser l’ensemble de ces de techniques et modèles permettant d’appliquer des structures formelles à ces systèmes.\nPar un ensemble de méthodes mathématiques, statistiques et informatiques, les étudiants acquièrent la capacité de modéliser, d’analyser et de cartographier les organisations spatiales et leurs dynamiques. Les étudiants sont solidement formés à la dimension numérique de la gestion, de l’analyse et de la représentation de l’information géographique, mais ils sont aussi préparés à appréhender la dimension sémantique et thématique de l’information géographique. La co-habilitation Université - Géodata Paris permet d’assumer la double généalogie de la géomatique : les Sciences de l’Ingénieur d’une part, avec une forte composante informatique, et la Géographie d’autre part, avec un ancrage dans les Sciences Humaines et Sociales (SHS).\nL’enseignement couple des approches méthodologiques et techniques professionnelles de production cartographique : cours de SIG, de modélisation des bases de données, de programmation et de webmapping qui permettent ainsi la mise en œuvre de ces méthodes sur des questions appliquées relevant des domaines de l’environnement, de la ville durable, de la gestion territoriale…"
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "m1.html#enseignements",
+    "href": "m1.html#enseignements",
+    "title": "Le Master 1",
+    "section": "Enseignements",
+    "text": "Enseignements\n\nUniversité Paris CitéUniversité Paris 1 Panthéon-Sorbonne\n\n\n\n# library(tidyverse)\n# library(glue)\n# library(kableExtra) --&gt;"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/trading_posts.html",
+    "href": "realisations/projet_edito_2025-2026/trading_posts.html",
+    "title": "Trading Posts",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/colonization_united_states.html",
+    "href": "realisations/projet_edito_2025-2026/colonization_united_states.html",
+    "title": "Colonization of the US",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/gentrification.html",
+    "href": "realisations/projet_edito_2025-2026/gentrification.html",
+    "title": "Gentrification Montreuil",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/commuters_monaco.html",
+    "href": "realisations/projet_edito_2025-2026/commuters_monaco.html",
+    "title": "Commuters Monaco",
+    "section": "",
+    "text": "View webpage in full screen"
+  },
+  {
+    "objectID": "realisations/projet-editorial-2025-2026.html",
+    "href": "realisations/projet-editorial-2025-2026.html",
+    "title": "Space n°8 - Borders",
+    "section": "",
+    "text": "Projet éditorial 2025-2026 : Space n°8 - Borders"
+  },
+  {
+    "objectID": "realisations/projet-editorial-2025-2026.html#la-plaquette",
+    "href": "realisations/projet-editorial-2025-2026.html#la-plaquette",
+    "title": "Space n°8 - Borders",
+    "section": "La plaquette",
+    "text": "La plaquette\n  Download PDF File\n   \n    Unable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "realisations/projet-editorial-2025-2026.html#visualisations-interactives",
+    "href": "realisations/projet-editorial-2025-2026.html#visualisations-interactives",
+    "title": "Space n°8 - Borders",
+    "section": "Visualisations interactives",
+    "text": "Visualisations interactives\n\n\n\n\n\n\n\n\n\nNoteWorld Borders\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteTrading Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteBird Migrations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteColonization of the US\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteCommuters Monaco\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteGentrification Montreuil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteInternational Organizations of Africa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteSchool Segregation"
+  },
+  {
+    "objectID": "m2.html",
+    "href": "m2.html",
+    "title": "Le Master 2",
+    "section": "",
+    "text": "Programme"
   },
   {
     "objectID": "apres.html#témoignages",
@@ -42,53 +105,11 @@
     "text": "Informations et contacts\nPour toute demande d’information sur le master, contacter Robin Cura (prenom.nom AT univ-paris1.fr)"
   },
   {
-    "objectID": "realisations/projet_edito_2025-2026/gentrification.html",
-    "href": "realisations/projet_edito_2025-2026/gentrification.html",
-    "title": "Gentrification Montreuil",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Master Carthagéo",
     "section": "",
-    "text": "View webpage in full screen"
-  },
-  {
-    "objectID": "realisations/projet_edito_2025-2026/world_borders.html",
-    "href": "realisations/projet_edito_2025-2026/world_borders.html",
-    "title": "World Borders",
-    "section": "",
-    "text": "View webpage in full screen"
-  },
-  {
-    "objectID": "realisations/projet_edito_2025-2026/commuters_monaco.html",
-    "href": "realisations/projet_edito_2025-2026/commuters_monaco.html",
-    "title": "Commuters Monaco",
-    "section": "",
-    "text": "View webpage in full screen"
-  },
-  {
-    "objectID": "realisations/projet_edito_2025-2026/trading_posts.html",
-    "href": "realisations/projet_edito_2025-2026/trading_posts.html",
-    "title": "Trading Posts",
-    "section": "",
-    "text": "View webpage in full screen"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html",
-    "href": "realisations/projet-editorial-2025-2026.html",
-    "title": "Space n°8 - Borders",
-    "section": "",
-    "text": "Projet éditorial 2025-2026 : Space n°8 - Borders"
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html#la-plaquette",
-    "href": "realisations/projet-editorial-2025-2026.html#la-plaquette",
-    "title": "Space n°8 - Borders",
-    "section": "La plaquette",
-    "text": "La plaquette\n  Download PDF File\n   \n    Unable to display PDF file. Download instead."
-  },
-  {
-    "objectID": "realisations/projet-editorial-2025-2026.html#visualisations-interactives",
-    "href": "realisations/projet-editorial-2025-2026.html#visualisations-interactives",
-    "title": "Space n°8 - Borders",
-    "section": "Visualisations interactives",
-    "text": "Visualisations interactives\n\n\n\n\n\n\n\n\n\nNoteWorld Borders\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteTrading Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteBird Migrations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteColonization of the US\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteCommuters Monaco\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteGentrification Montreuil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteInternational Organizations of Africa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteSchool Segregation"
+    "text": "Le master Carthagéo est une formation à la gestion, l’analyse et le traitement de données géographiques ainsi qu’à la restitution cartographique (cartographie dynamique, webmapping). Sa singularité réside dans l’accent mis sur les représentations cartographiques d’une part et sur l’analyse spatiale d’autre part.\nL’objectif du master Carthagéo est de former des cadres en géomatique et en analyse de données géolocalisées : dans un contexte marqué par l’explosion de la production de données géolocalisées, il est plus que jamais nécessaire de maîtriser l’ensemble de ces de techniques et modèles permettant d’appliquer des structures formelles à ces systèmes.\nPar un ensemble de méthodes mathématiques, statistiques et informatiques, les étudiants acquièrent la capacité de modéliser, d’analyser et de cartographier les organisations spatiales et leurs dynamiques. Les étudiants sont solidement formés à la dimension numérique de la gestion, de l’analyse et de la représentation de l’information géographique, mais ils sont aussi préparés à appréhender la dimension sémantique et thématique de l’information géographique. La co-habilitation Université - Géodata Paris permet d’assumer la double généalogie de la géomatique : les Sciences de l’Ingénieur d’une part, avec une forte composante informatique, et la Géographie d’autre part, avec un ancrage dans les Sciences Humaines et Sociales (SHS).\nL’enseignement couple des approches méthodologiques et techniques professionnelles de production cartographique : cours de SIG, de modélisation des bases de données, de programmation et de webmapping qui permettent ainsi la mise en œuvre de ces méthodes sur des questions appliquées relevant des domaines de l’environnement, de la ville durable, de la gestion territoriale…"
   },
   {
     "objectID": "realisations/realisations.html",
@@ -105,18 +126,18 @@
     "text": "2025-2026 : réalisation du numéro 8 du magazine Space sur les frontières"
   },
   {
-    "objectID": "realisations/projet_edito_2025-2026/colonization_united_states.html",
-    "href": "realisations/projet_edito_2025-2026/colonization_united_states.html",
-    "title": "Colonization of the US",
-    "section": "",
-    "text": "View webpage in full screen"
-  },
-  {
     "objectID": "realisations/projet_edito_2025-2026/school_segregation.html",
     "href": "realisations/projet_edito_2025-2026/school_segregation.html",
     "title": "School Segregation",
     "section": "",
     "text": "View webpage in full screen\n       \n      \n    \n  \nSource : Sylvain Maugis, « Six types de collèges différenciés par la population accueillie et la situation géographique », publication de la DEPP, janvier 2020"
+  },
+  {
+    "objectID": "realisations/projet_edito_2025-2026/world_borders.html",
+    "href": "realisations/projet_edito_2025-2026/world_borders.html",
+    "title": "World Borders",
+    "section": "",
+    "text": "View webpage in full screen"
   },
   {
     "objectID": "realisations/projet_edito_2025-2026/international_organizations_africa.html",
@@ -131,20 +152,6 @@
     "title": "Bird Migrations",
     "section": "",
     "text": "View webpage in full screen"
-  },
-  {
-    "objectID": "m2.html",
-    "href": "m2.html",
-    "title": "Le Master 2",
-    "section": "",
-    "text": "Programme"
-  },
-  {
-    "objectID": "m1.html#enseignements",
-    "href": "m1.html#enseignements",
-    "title": "Le Master 1",
-    "section": "Enseignements",
-    "text": "Enseignements\n\nUniversité Paris CitéUniversité Paris 1 Panthéon-Sorbonne\n\n\n\n# library(tidyverse)\n# library(glue)\n# library(kableExtra) --&gt;"
   },
   {
     "objectID": "admission.html",
