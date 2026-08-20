@@ -57,6 +57,11 @@
     editable: false,
     events: 'planning_2026-2027.json',
     eventDisplay: 'block',
+    eventTimeFormat: {
+        hour: 'numeric',
+        minute: '2-digit',
+        omitZeroMinute: false,
+    },
     eventDidMount: function(info) {
         tippy(info.el, {
           theme: 'light',

@@ -52,7 +52,7 @@ library(glue)
 cal_path <- "https://calendar.google.com/calendar/ical/973edf391577058452c3bbdf06f87aa436b286c0b0c386320820396cba55872a%40group.calendar.google.com/public/basic.ics"
 raw_calendar <- calendar::ic_read(cal_path)
 
-maquette <- readxl::read_xlsx("Maquette_Agenda.xlsx")
+maquette <- readxl::read_xlsx("Maquette_Agenda.xlsx", )
 
 
 # DEMI-JOURNEES DEFINIES
@@ -61,7 +61,7 @@ library(stringr)
 
 calendar_creneaux <- raw_calendar %>%
   filter(!is.na(DTSTART)) %>%
-  fuzzy_inner_join(y = maquette, by = c("SUMMARY" = "shortName"), match_fun = function(x,y){str_detect(x, y)}) %>%
+  fuzzy_left_join(y = maquette, by = c("SUMMARY" = "shortName"), match_fun = function(x,y){str_detect(x, y)}) %>%
   mutate(shortName = case_when(
     is.na(shortName) ~ SUMMARY,
     .default = shortName
@@ -83,7 +83,7 @@ calendar_vacances <- raw_calendar %>%
 calendar_cours <- raw_calendar %>%
   filter(is.na(DTSTART)) %>%
   filter(LOCATION %in% c("GeoData Paris", "OdG")) %>%
-  fuzzy_inner_join(y = maquette, by = c("SUMMARY" = "shortName"), match_fun = function(x,y){str_detect(x, y)}) %>%
+  fuzzy_left_join(y = maquette, by = c("SUMMARY" = "shortName"), match_fun = function(x,y){str_detect(x, y)}) %>%
   mutate(shortName = case_when(
     is.na(shortName) ~ SUMMARY,
     .default = shortName
@@ -110,7 +110,7 @@ calendar_nocut <- calendar_vacances %>%
 calendar_a_decouper <- raw_calendar %>%
   filter(is.na(DTSTART)) %>%
   filter(LOCATION == "IG 413") %>%
-  fuzzy_inner_join(y = maquette, by = c("SUMMARY" = "shortName"), match_fun = function(x,y){str_detect(x, y)}) %>%
+  fuzzy_left_join(y = maquette, by = c("SUMMARY" = "shortName"), match_fun = function(x,y){str_detect(x, y)}) %>%
    mutate(
     DTSTART = as_datetime(`DTSTART;VALUE=DATE`, tz = "Europe/Paris") + (9.5*3600) # = 9.5 heures
   ) %>%
