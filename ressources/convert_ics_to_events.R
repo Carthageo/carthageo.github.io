@@ -151,5 +151,7 @@ library(jsonlite)
 jsonlite::write_json(calendar_complet, "planning_2026-2027.json", pretty = TRUE)
 
 
-
+print({
+  glue("JSON recréée : {nrow(calendar_complet)} événements")
+})
 
