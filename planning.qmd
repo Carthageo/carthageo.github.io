@@ -1,6 +1,6 @@
 ---
 title: "Planning 2026/2027"
-date: "2026/08/19"
+date: "2026/09/05"
 date-format: "[Page mise à jour le :] DD/MM/YYYY"
 ---
 

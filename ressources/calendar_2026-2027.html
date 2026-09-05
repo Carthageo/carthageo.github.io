@@ -3,10 +3,13 @@
 <head>
   <meta charset="utf-8">
   <title></title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css" rel="stylesheet" >
   <link href="https://cdn.jsdelivr.net/npm/fullcalendar@7.0.2/skeleton.css" rel="stylesheet" />
   <link href="https://cdn.jsdelivr.net/npm/fullcalendar@7.0.2/themes/forma/theme.css" rel="stylesheet" />
   <link href="https://cdn.jsdelivr.net/npm/fullcalendar@7.0.2/themes/forma/palettes/blue.css" rel="stylesheet" />
   <link href="https://unpkg.com/tippy.js@6/themes/light.css" rel="stylesheet" />
+  <!---->
   <style>
     html, body {
       margin: 0;
@@ -21,7 +24,7 @@
   </style>
 </head>
 <body>
-<div id="calendar"></div>
+  <div id="calendar"></div>
   <script src="https://cdn.jsdelivr.net/npm/fullcalendar@7.0.2/all/global.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/fullcalendar@7.0.2/themes/forma/global.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/fullcalendar@7.0.2/locales/fr/global.js"></script>
@@ -78,6 +81,44 @@
 
   });
   calendar.render();
+
+var link1 = document.createElement("a");
+link1.className = "btn btn-outline-primary d-block";
+link1.setAttribute("role", "button");
+link1.setAttribute("aria-disabled", "true");
+link1.href = "https://calendar.google.com/calendar/embed?src=973edf391577058452c3bbdf06f87aa436b286c0b0c386320820396cba55872a%40group.calendar.google.com&ctz=Europe%2FParis";
+
+var icon1 = document.createElement("i");
+icon1.className = "bi bi-google";
+
+var text1 = document.createElement("span");
+text1.textContent = " Ajouter à votre agenda Google";
+
+link1.appendChild(icon1);
+link1.appendChild(text1);
+
+var link2 = document.createElement("a");
+link2.className = "btn btn-outline-primary d-block";
+link2.setAttribute("role", "button");
+link2.setAttribute("aria-disabled", "true");
+link2.href = "https://calendar.google.com/calendar/ical/973edf391577058452c3bbdf06f87aa436b286c0b0c386320820396cba55872a%40group.calendar.google.com/public/basic.ics";
+
+var icon2 = document.createElement("i");
+icon2.className = "bi bi-calendar2-week";
+
+var text2 = document.createElement("span");
+text2.textContent = " Agenda ICS";
+
+link2.appendChild(icon2);
+link2.appendChild(text2);
+
+// Wrapper
+var wrapper = document.createElement("span");
+wrapper.className = "d-flex gap-2 col-12"
+wrapper.appendChild(link1);
+wrapper.appendChild(link2);
+
+document.querySelector('[role="heading"]').append(wrapper);
 });
 
 
