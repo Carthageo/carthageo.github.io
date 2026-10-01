@@ -93,8 +93,15 @@ calendar_complet <- calendar_creneaux %>%
     .default = FALSE
   ))
 
+### DOUBLONS ???
+calendar_complet %>% group_by(UID) %>% mutate(n = n()) %>% ungroup() %>% arrange(desc(n))
+
+
 library(jsonlite)
-jsonlite::write_json(calendar_complet, "planning_2026-2027.json", pretty = TRUE)
+
+
+
+jsonlite::write_json(calendar_complet %>% arrange(start), "planning_2026-2027.json", pretty = TRUE)
 
 
 print({
