@@ -235,6 +235,21 @@
     "allDay": true
   },
   {
+    "UID": "7kae8dhatse8roh5pekqc580gk@google.com",
+    "start": "2026-09-24T09:00:00",
+    "end": "2026-09-24T12:30:00",
+    "SUMMARY": "BD Spatiales",
+    "SEMESTRE": 1,
+    "UE": "UE 2 :  Bases de données et interopérabilité",
+    "CODE": "H5I40719",
+    "Matiere": "Bases de données spatiales",
+    "title": "BD Spatiales",
+    "Enseignant.e": "GeoData",
+    "LOCATION": "GeoData Paris",
+    "color": "#d9ead3",
+    "allDay": false
+  },
+  {
     "UID": "18r3pkkaci7pl3rivnrh0ea792@google.com",
     "start": "2026-09-25T09:30:00",
     "end": "2026-09-25T12:30:00",
@@ -810,6 +825,21 @@
     "allDay": false
   },
   {
+    "UID": "6bqegbv78c6mmsp57lilditd6k@google.com",
+    "start": "2026-11-19T13:30:00",
+    "end": "2026-11-19T16:30:00",
+    "SUMMARY": "Carto OF 5 ?",
+    "SEMESTRE": 1,
+    "UE": "UE 5 : Cartographie",
+    "CODE": "H5I41919",
+    "Matiere": "Sémiologie graphique statique et dynamique",
+    "title": "Carto OF",
+    "Enseignant.e": "Olivier Finance",
+    "LOCATION": "IG 413",
+    "color": "#f34d4d",
+    "allDay": false
+  },
+  {
     "UID": "2piv2mqesiab80csj36alul07i@google.com",
     "start": "2026-11-19T13:30:00",
     "end": "2026-11-19T16:30:00",
@@ -825,34 +855,19 @@
     "allDay": false
   },
   {
-    "UID": "56osdo350u26p5nl0f0sufdbpm@google.com",
+    "UID": "2c95haasb83u4od7m01i707bni@google.com",
     "start": "2026-11-20T09:30:00",
-    "end": "2026-11-20T12:30:00",
-    "SUMMARY": "RencM - MdF ?",
-    "SEMESTRE": 1,
-    "UE": "UE 6 : Géomatique : Recherche et applications",
-    "CODE": "H5I42319",
-    "Matiere": "Rencontres métiers - BILINGUE",
-    "title": "RencM - MdF",
-    "Enseignant.e": "Maeve de France",
-    "LOCATION": "IG 413",
-    "color": "#f34d4d",
-    "allDay": false
-  },
-  {
-    "UID": "6bqegbv78c6mmsp57lilditd6k@google.com",
-    "start": "2026-11-20T13:30:00",
     "end": "2026-11-20T16:30:00",
-    "SUMMARY": "Carto OF 5",
+    "SUMMARY": "Stage AnaSpa avec Géoprisme",
     "SEMESTRE": 1,
-    "UE": "UE 5 : Cartographie",
-    "CODE": "H5I41919",
-    "Matiere": "Sémiologie graphique statique et dynamique",
-    "title": "Carto OF",
-    "Enseignant.e": "Olivier Finance",
-    "LOCATION": "IG 413",
-    "color": "#cfe2f3",
-    "allDay": false
+    "UE": "UE 4 : Analyse spatiale",
+    "CODE": "H5I20925",
+    "Matiere": "Stage d'analyse de données avec R",
+    "title": "Stage AnaSpa",
+    "Enseignant.e": "Hadrien Commenges, Pierre Pistre et Olivier Finance",
+    "LOCATION": "OdG",
+    "color": "#00ff00",
+    "allDay": true
   },
   {
     "UID": "4arpshsclghofc8h44qu2o8p7q@google.com",
@@ -867,6 +882,21 @@
     "Enseignant.e": "Guilhain Averlant",
     "LOCATION": "IG 413",
     "color": "#cfe2f3",
+    "allDay": false
+  },
+  {
+    "UID": "6te6r6h5eschdci0u5dnp1mojq@google.com",
+    "start": "2026-11-23T13:30:00",
+    "end": "2026-11-23T16:30:00",
+    "SUMMARY": "Carto OF 5 ?",
+    "SEMESTRE": 1,
+    "UE": "UE 5 : Cartographie",
+    "CODE": "H5I41919",
+    "Matiere": "Sémiologie graphique statique et dynamique",
+    "title": "Carto OF",
+    "Enseignant.e": "Olivier Finance",
+    "LOCATION": "IG 413",
+    "color": "#f34d4d",
     "allDay": false
   },
   {
