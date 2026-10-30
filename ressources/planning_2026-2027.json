@@ -370,21 +370,6 @@
     "allDay": true
   },
   {
-    "UID": "7k3ftg2pvea61qillqs855qt8n@google.com",
-    "start": "2026-10-13",
-    "end": "2026-10-14",
-    "SUMMARY": "BAIP",
-    "SEMESTRE": 1,
-    "UE": "Hors Maquette",
-    "CODE": "Hors Maquette",
-    "Matiere": "Journée du Bureau d’Aide à l’Insertion Professionnelle",
-    "title": "BAIP",
-    "Enseignant.e": "Robin Cura",
-    "LOCATION": "IG 413",
-    "color": "#cfe2f3",
-    "allDay": true
-  },
-  {
     "UID": "1nkiu5u8cm575p4a9rchrci6gt@google.com",
     "start": "2026-10-14T09:30:00",
     "end": "2026-10-14T16:30:00",
@@ -501,7 +486,7 @@
   },
   {
     "UID": "3f5m6kafqcf4hvicjmr8eludba@google.com",
-    "start": "2026-11-02T09:30:00",
+    "start": "2026-11-02T10:30:00",
     "end": "2026-11-02T12:30:00",
     "SUMMARY": "HiC EVC",
     "SEMESTRE": 1,
@@ -531,7 +516,7 @@
   },
   {
     "UID": "656911tt06tn4lsiq5k3kfngrn@google.com",
-    "start": "2026-11-03T09:30:00",
+    "start": "2026-11-03T10:30:00",
     "end": "2026-11-03T12:30:00",
     "SUMMARY": "HiC EVC",
     "SEMESTRE": 1,
@@ -546,8 +531,8 @@
   },
   {
     "UID": "4ot5nr8s26j0arle4nmeamvneb@google.com",
-    "start": "2026-11-03T13:30:00",
-    "end": "2026-11-03T16:30:00",
+    "start": "2026-11-03T14:00:00",
+    "end": "2026-11-03T17:00:00",
     "SUMMARY": "AnaSpa Stats RC 6",
     "SEMESTRE": 1,
     "UE": "UE 4 : Analyse spatiale",
@@ -910,6 +895,21 @@
     "Matiere": "Séminaire Histoire et pratique de la cartographie",
     "title": "HiC NL",
     "Enseignant.e": "Nicolas Lambert",
+    "LOCATION": "IG 413",
+    "color": "#cfe2f3",
+    "allDay": false
+  },
+  {
+    "UID": "4shvetqe64bi1btkbcspns6d7a@google.com",
+    "start": "2026-11-24T13:30:00",
+    "end": "2026-11-24T16:30:00",
+    "SUMMARY": "BAIP",
+    "SEMESTRE": 1,
+    "UE": "Hors Maquette",
+    "CODE": "Hors Maquette",
+    "Matiere": "Journée du Bureau d’Aide à l’Insertion Professionnelle",
+    "title": "BAIP",
+    "Enseignant.e": "Robin Cura",
     "LOCATION": "IG 413",
     "color": "#cfe2f3",
     "allDay": false
@@ -1387,7 +1387,7 @@
   {
     "UID": "1dgrh4rono38811008lbaar9nl@google.com",
     "start": "2027-03-22",
-    "end": "2027-03-26",
+    "end": "2027-03-25",
     "SUMMARY": "Projet Transversal",
     "SEMESTRE": 2,
     "UE": "UE 1 : Projets cartographiques",
@@ -1398,6 +1398,21 @@
     "LOCATION": "IG 413",
     "color": "#cfe2f3",
     "allDay": true
+  },
+  {
+    "UID": "5pgfl7s46stse6v06t7gg7gkh2@google.com",
+    "start": "2027-03-25T13:30:00",
+    "end": "2027-03-25T16:30:00",
+    "SUMMARY": "Projet Transversal",
+    "SEMESTRE": 2,
+    "UE": "UE 1 : Projets cartographiques",
+    "CODE": "H5G40615",
+    "Matiere": "Projet transversal d'analyse spatiale",
+    "title": "Projet Transversal",
+    "Enseignant.e": "Robin Cura et Juliette Morel",
+    "LOCATION": "IG 413",
+    "color": "#cfe2f3",
+    "allDay": false
   },
   {
     "UID": "0eo38vgtv962b4lhjd69mqcoqv@google.com",
